@@ -228,7 +228,7 @@
     .row.mb-5.justify-content-center.align-items-center.mb-5
       .col-xxl-4.col-xl-5.col-lg-6.mb-md-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
-          img.sizeimg(src='@/assets/curso/tema1/turista.svg', alt="Imagen decorativa")
+          img.sizeimg(src='@/assets/curso/tema1/turista.svg', alt="Turista")
           .tarjeta.fondo3
             ul.lista-ul--color.otralista.col-xxl.ps-4.pb-5.mb-5.col-xxl.pe-4.col-md.me-2.col-sm.ps-4.col-xl-11.col-xl.ms-3.col-10.mt-sm-3.margenxs.mt-3
               li(data-aos="fade-right") 
@@ -243,7 +243,7 @@
 
       .col-xxl-4.col-xl-5.col-lg-6.mb-md-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
-          img.sizeimg(src='@/assets/curso/tema1/excursionista.svg', alt="Imagen decorativa")
+          img.sizeimg(src='@/assets/curso/tema1/excursionista.svg', alt="Excursionista")
           .tarjeta.fondo5
             ul.lista-ul--color.otralista.ps-5.col-xxl.pb-5.col-xxl.mb-5.mb-5.col-xxl.pe-2.col-lg-11.col-xl-11.col-10.mt-sm-3.margenxs.mt-3
               li(data-aos="fade-left")
@@ -265,18 +265,18 @@
           p.mb-0 Cada turista o excursionista a su vez, tiene diferentes motivaciones para realizar su viaje. En el contexto turístico, este término se define como el conjunto de necesidades o fuerzas psicológicas que “predisponen a una persona a participar en una actividad turística”. 
 
     .row.justify-content-center.mb-5
-      .col-lg-6.col-md-8.col-sm-9(data-aos="fade-down")
-        img(src='@/assets/curso/tema1/piramide.svg', alt="Imagen decorativa")
+      .col-lg-6.col-md-8(data-aos="fade-down")
+        img(src='@/assets/curso/tema1/piramide.svg', alt="Imagen que muestra la Pirámide de Maslow, que muestra 5 niveles de arriba hacía abajo donde en cada nivel se encuentra:<br>1. Autorrealización.<br>2. Necesidades del sistema.<br>3. Necesidades sociales.<br>4. Seguridad.<br>5. Necesidad básica.")
 
     p(data-aos="fade-left") Respecto a la satisfacción de necesidades, se ha hablado mucho en la literatura, sin embargo, el autor que ha sido más reconocido en el tema, ha sido Maslow, quien brindó una teoría psicológica a partir de la cual se diseñó la jerarquía de las necesidades humanas que incluye las de seguridad (protección, seguridad o refugio), las fisiológicas (hambre, descanso o sed), las necesidades de estima (autoestima, estatus o reconocimiento por los demás), las necesidades sociales (de amor o pertenencia), y las necesidades de autorrealización (de realización y desarrollo personal).  
-    p.mb-5(data-aos="fade-left") Así pues, se puede decir que todos los viajes pueden tener un objetivo o finalidad diferente; habrá quienes busquen recreación, o quienes lo hagan por motivos profesionales o bien por otras razones como estudio, salud entre otros (ver tabla1).
+    p.mb-5(data-aos="fade-left") Así pues, se puede decir que todos los viajes pueden tener un objetivo o finalidad diferente; habrá quienes busquen recreación, o quienes lo hagan por motivos profesionales o bien por otras razones como estudio, salud entre otros (ver tabla 1).
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 1.
       span Relación entre necesidades, motivación y referencia turísticas
     
     .tabla-c.mb-5
-      table
+      table(alt="Se indican la relación existente entre las necesidades del cliente, su motivación y las referencias turísticas que tienen.")
         caption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">Adaptado de Gutiérrez y Bordas (1993) por Cordente Rodríguez, M; Mondéjar Jiménez, J.A; Esteban Talaya, A (s.f.).</span>
         tr.fondo6(data-aos="fade-right")
           th.bordetablablanco
@@ -573,7 +573,7 @@
       h5 Figura 2.
       span Clasificación de los tipos de turismo, según el desplazamiento
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(alt="Imagen que muestra los tres tipos de turismo:<br>1. Turismo receptivo: realizado por los no residentes en el territorio económico del país.<br>02. Turismo emisivo: residentes de propio país se dirigen a otros países.<br>03. Turismo doméstico: el realizado por los residentes en el territorio económico del país.")
       .col-lg-3.col-md-6.margenesx(data-aos="fade-right")
         .tarjeta-avatar.tamanotipo.fondo10
           .tarjeta
@@ -694,7 +694,7 @@
       span Normatividad que regula el sector turístico
 
     .tabla-c.mb-5
-      table
+      table(alt="Se describen en esta tabla las diferentes normatividades vigentes para el sector turístico.")
         caption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
         tr.fondo14(data-aos="fade-right")
           th.bordetablablanco
@@ -755,15 +755,15 @@
           h5 Figura 3.
           span Beneficios Registro Nacional de Turismo
 
-        .row.justify-content-center.mb-5
+        .row.justify-content-center.mb-5(alt="Describe los beneficios al estar debidamente identificados en el Registro Nacional del Turismo, los cuales se indican posterior a la imagen.")
           .col-xxl-2.col-lg-3.col-sm-5.col-6(data-aos="fade-left")
-            img(src='@/assets/curso/tema1/beneficio1.svg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/beneficio1.svg', alt="Acceso a recursos Fondo Nacional del Turismo.")
           .col-xxl-2.col-lg-3.col-sm-5.col-6(data-aos="fade-up")
-            img(src='@/assets/curso/tema1/beneficio2.svg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/beneficio2.svg', alt="Exención de pagos de impuestos o descuentos en los mismos.")
           .col-xxl-2.col-lg-3.col-sm-5.col-6(data-aos="fade-up")
-            img(src='@/assets/curso/tema1/beneficio3.svg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/beneficio3.svg', alt="Registro y publicidad en la página del Ministerio de Turismo.")
           .col-xxl-2.col-lg-3.col-sm-5.col-6(data-aos="fade-right")
-            img.anchoimg(src='@/assets/curso/tema1/beneficio4.svg', alt="Imagen decorativa")
+            img.anchoimg(src='@/assets/curso/tema1/beneficio4.svg', alt="Acceso a créditos.")
           figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022)</span>
 
     p.mb-5(data-aos="fade-left") De manera adicional, en esta misma ley se generaron varios proyectos relacionados con el gremio, como puede verse a continuación:
@@ -822,12 +822,12 @@
         p.mb-5(data-aos="fade-left") Entre las medidas tributarias transitorias de la ley y que serán de gran ayuda se encuentran las indicadas en la siguiente figura 4:
         .titulo-sexto.color-acento-contenido(data-aos="fade-left")
           h5 Figura 4.
-          span  Medidas tributarias transitorias en la Ley 2060 de 2020 de Turismo
+          span Medidas tributarias transitorias en la Ley 2060 de 2020 de Turismo
         .row.justify-content-center
           .col-xl-5.col-lg-6.col-md-10.col-sm-0.col-0(data-aos="fade-left")
-            img.nomostrar(src='@/assets/curso/tema1/medidas1.svg', alt="Imagen decorativa")
+            img.nomostrar(src='@/assets/curso/tema1/medidas1.svg', alt="Describe las medidas tributarias transitorias en la Ley 2060 y se indican luego de la imagen.")
           .col-xl-5.col-lg-6.col-md-10(data-aos="fade-right")
-            img(src='@/assets/curso/tema1/medidas2.svg', alt="Imagen decorativa") 
+            img(src='@/assets/curso/tema1/medidas2.svg', alt="1. Reducción del IVA en los tiquetes aéreos: pasará del 19% al 5% hasta el 31 de diciembre de 2022<br>2. Suspensión transitoria del pago de la sobretasa a la energía: para los prestadores de servicios turísticos de los subsectores hotelero, alojamiento, eventos y parques. <br>3. Reducción transitoria del impuesto al consumo al 0% y la exención del IVA: para servicios de hotelería y turismo hasta el 31 de diciembre de 2021.<br>4. Eliminación del pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT):  hasta marzo de 2021.<br>5. Ampliación de la tarifa especial del 9% del impuesto sobre la renta para la construcción de hoteles nuevos, parques temáticos nuevos y remodelación de estos: el tiempo de construcción se amplió de 4 a 6 años. Además, en este beneficio se incluyeron los servicios prestados en nuevos centros de asistencia para el turista adulto mayor.") 
           figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
     
     separador
@@ -849,7 +849,7 @@
       .col.px-5
         .row.justify-content-center 
           .col-xl-6.col-lg-7.col-md-10.col-sm-11(data-aos="zoom-in")
-            img(src='@/assets/curso/tema1/sistematuristico.svg', alt="Imagen decorativa")
+            img(src='@/assets/curso/tema1/sistematuristico.svg', alt="Muestra a través de un esquema la planificación de un sistema turístico, donde la oferta turística es un producto que satisface el consumo a través de las diferentes empresas turísticas. De otra parte esta oferta turística pueden ser bienes y servicio puestos en el mercado que su venta logra que se fortalezca la demanda pues fueron brindados los servicios solicitados por el consumidor.")
           figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">Planificación del espacio turístico. Boullón, R (2004).</span>
     
     p.mb-5(data-aos="fade-left") Tal como lo explica Boullón, en la gráfica se observa que en la parte izquierda, el punto de partida del funcionamiento del sistema, surge del encuentro entre oferta y demanda, mediante un proceso de venta llamado producto turístico. Este  junto con la infraestructura constituyen el centro de producción del sector, tal como se aprecia en la parte derecha de la imagen. En el centro, se ha representado la estructura turística, que tiene por función controlar la eficiencia del sistema, vigilando el funcionamiento e interrelación de las partes; con el fin de dar mayor claridad a lo explicado, se ampliarán cada uno de estos conceptos:
@@ -906,7 +906,7 @@
     .row.mb-5
       .col(data-aos="fade-right")
         <div class="table-responsive">
-          <table class="table table-striped w-auto table-responsive">
+          <table class="table table-striped w-auto table-responsive" alt="Se describen todos los elementos que hacen parte del equipamiento tirístico.">
             caption.text-center Nota. <span style="font-weight: 400">Propuesta de un modelo alternativo de funcionamiento del sistema turístico. Abarca Zaquinaula, M (s.f.).</span>
             <tr class="fondo14" style="align-items: top;">
               <th class="bordetablablanco" style="width: 150px !important;">
@@ -976,7 +976,7 @@
 
     .row.justify-content-center.px-5.mb-5
       .col-lg-4.px-0(data-aos="fade-left")
-        img.ms-3(src='@/assets/curso/tema1/clase1.svg', alt="Imagen decorativa")
+        img.ms-3(src='@/assets/curso/tema1/clase1.svg', alt="Describe la clasificación de las diversas instalaciones que se encuentran en el área turística y se transcriben luego de la imagen.")
       .col-lg-6.px-0.me-3(data-aos="fade-right")
         img.nomostrar1.alto1(src='@/assets/curso/tema1/clase2.png', alt="Imagen decorativa")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">Propuesta de un modelo alternativo de funcionamiento del sistema turístico. Abarca Zaquinaula, M (s.f.).</span>
@@ -1161,7 +1161,7 @@
     .row.mb-5
       .col
         <div class="table-responsive">
-          <table class="table table-striped w-auto table-responsive">
+          <table class="table table-striped w-auto table-responsive" alt="Se describen el concepto y diferencia entre costos y gastos de un producto turístico">
             caption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">Costo. Enciclopedia Concepto (2022).</span>
             tr.fondo6(data-aos="fade-right")
               th 
@@ -1188,7 +1188,7 @@
         ImagenInfografica.color-secundario
           template(v-slot:imagen)
             figure
-              img(src="@/assets/curso/tema1/grafica1.svg")
+              img(src="@/assets/curso/tema1/grafica1.svg" alt="Gráfico que representa y describe los diferentes tipos de costos y gastos que se generan en la industria del turismo, de igual manera se transcribe su información luego de la imagen.")
 
           .tarjeta.fondo24.p-3(x="38.1%" y="28.6%" numero="+")
             p.text-bold.mb-0 Costos fijos
@@ -1396,7 +1396,7 @@
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
           span Ejemplo de cómo funcionan el metabuscador <i>Tripadvisor</i>    
-        img(src='@/assets/curso/tema1/imagen19.jpg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/imagen19.jpg', alt="Imagen que muestra las opciones que salen en la pantalla al dar la opción en ese buscador.")
       
     .row.mb-5
       .col-12.fondonaranja.py-4.px-5(data-aos="fade-left")
@@ -1457,15 +1457,15 @@
       h5 Figura 8.
       span Principales Metabuscadores en turismo
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(alt="Describe los principales metabuscadores en turismo y que se genera su información posterior a la imagen.")
       .col-lg-3.col-md-6.col-10.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/triadvisor.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/triadvisor.svg', alt="Tripadvisor: es el más conocido, porque anuncia a empresas turísticas de todo tipo: alojamientos, actividades, restaurantes, etc. Se trata de la plataforma turística más grande del mundo, ayudando a más de 400 millones se viajeros al mes. Estos disponen de más de 800 millones de reseñas y comentarios de más de 8 millones de restaurantes, alojamientos, experiencias, etc")
       .col-lg-3.col-md-6.col-10.mb-4(data-aos="flip-up")
-        img(src='@/assets/curso/tema1/trivago.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/trivago.svg', alt="Trivago: es uno de los metabuscadores hoteleros por excelencia en España.")
       .col-lg-3.col-md-6.col-10.mb-4(data-aos="flip-up")
-        img(src='@/assets/curso/tema1/kayak.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/kayak.svg', alt="Kayak: Busca en cientos de webs de viajes a la vez y muestra a los viajeros la información que necesitan para elegir el vuelo, hotel, carro de alquiler o paquete de viaje perfecto.")
       .col-lg-3.col-md-6.col-10.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/google.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/google.svg', alt="Google Hotel Ads: es una plataforma online, como una evolución de Google Hotel Finder, especialmente para la distribución hotelera que dirige la audiencia en busca por alojamiento directamente para las reservas o ventas directas.")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
     .row.mb-5(data-aos="fade-right")
@@ -1486,13 +1486,13 @@
       h5 Figura 9.
       span Tipos de CRM
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(alt="Describe los tipos de CRM que son: Operativo, analítico y colaborativo, de igual manera se trascribe  la información de cada uno luego de la imagen.")
       .col-xl-3.col-lg-4.col-md-6.col-10(data-aos="fade-left")
-        img(src='@/assets/curso/tema1/crm1.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/crm1.svg', alt="Tipo operativo <br>Se divide en dos:<br>Front Office: enfocada en la gestión comercial, el marketing y administración.<br>Back Office: centrada en contabilidad y finanzas.<br>Son ideales si buscas una herramienta que te ayude a vender más y mejorar la comunicación de tu equipo. Recomendado para organizaciones pequeñas y medianas.")
       .col-xl-3.col-lg-4.col-md-6.col-10(data-aos="fade-up")
-        img(src='@/assets/curso/tema1/crm2.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/crm2.svg', alt="Tipo analítico<br>Se utilizan para analizar a profundidad todos los datos suministrados por los clientes.<br>Muestra comportamientos, hábitos de consumo, y claves necesarias para impulsar cualquier estrategia de comercialización de un producto o servicio.<br>Este tipo de CMR, son muy complejos de usar y tienen una curva de aprendizaje muy elevada.")
       .col-xl-3.col-lg-4.col-md-6.col-10(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/crm3.svg', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/crm3.svg', alt="Tipo colaborativo<br>Establecen una comunicación multicanal entre todos los departamentos de la empresa, así como interactuar con los clientes. Mejoran la relación con los clientes de la organización.<br>Diferentes departamentos están interconectados con este sistema de CMR. Por ejemplo, se pueden recopilar puntos clave de las llamadas Atención al Cliente para mejorar las estrategias de marketing, o implementar una nueva acción que mejore el proceso de ventas.")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
     p.subrayar.mb-5(data-aos="fade-right") <i>Enterprise Resoure Planning - ERP.</i>
@@ -1513,19 +1513,19 @@
         span Ventajas de un ERP
       .row.justify-content-center
         .col-xl-2.col-lg-3.col-md-4.col-sm-5.col-6.mb-2(data-aos="fade-right")
-          img(src='@/assets/curso/tema1/erp1.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/erp1.svg', alt="Integran totalmente la cadena de valor de cada hotel a través de un control de rentabilidad y costes del mismo.")
         .col-xxl-6.col-xl-7.col-lg-8.col-md-12.mb-2.my-2(data-aos="fade-left")
-          img(src='@/assets/curso/tema1/erp2.svg', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/erp2.svg', alt="Realizar la administración, simulación y costes de platos y recetas, para hacer una oferta gastronómica de acuerdo a la temporada y necesidades de los clientes fidelizados.")
           .row.justify-content-center.my-2
             .col-lg-6.col-sm-10.mb-2
-              img(src='@/assets/curso/tema1/erp3-1.svg', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/erp3-1.svg', alt="A mayor rapidez de trabajo, mejor opinión sobre tu empresa y mayor volumen de pedidos.")
             .col-lg-6.col-sm-10.mb-2
-              img(src='@/assets/curso/tema1/erp3-2.svg', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/erp3-2.svg', alt="Automatización de procesos de la empresa.")
           .row.justify-content-center.my-2
             .col-lg-6.col-sm-10.mb-2
-              img(src='@/assets/curso/tema1/erp4-1.svg', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/erp4-1.svg', alt="Su uso es muy sencillo y fácil de entender.<br>Ahorra tiempo y costes.")
             .col-lg-6.col-sm-10.mb-2
-              img(src='@/assets/curso/tema1/erp4-2.svg', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/erp4-2.svg', alt="Permite integración de sistemas propios de la industria como reservas y restaurantes, “front office”.")
         figcaption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
     p.mb-5(data-aos="fade-right") Debido a sus múltiples funciones y beneficios, hoy día existen muchas compañías que ofrecen diferentes tipos de ERP; sin embargo, cuando se analizan sus ofertas, se pueden encontrar muchas similitudes en los servicios, por ello, es importante diferenciar los tipos de ERP que existen y que las compañías tengan presentes sus necesidades a la hora de adquirir uno, como se muestra a continuación:
@@ -1560,7 +1560,7 @@
       span Itinerario de un paquete turístico
 
     .tabla-c.mb-5
-      table
+      table(alt="Describe el itinerario completo de un paquete turístico.")
         caption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
         tr.fondo14.align-items-top(data-aos="fade-right")
           th.bordetabla 
@@ -1678,11 +1678,11 @@
 
     .row.justify-content-center.fondo16.ampliarambos.p-5.mb-5
       .col-lg-4.col-sm-10(data-aos="fade-right")
-        img.mb-5(src='@/assets/curso/tema1/paquete1.svg', alt="Imagen decorativa")
+        img.mb-5(src='@/assets/curso/tema1/paquete1.svg', alt="Se describe de manera detallada la organización de un paquete turístico teniendo en cuenta el número de participantes, la zona geográfica, el transporte utilizado.")
       .col-lg-4.col-sm-10(data-aos="flip-up")
-        img.mb-5(src='@/assets/curso/tema1/paquete2.svg', alt="Imagen decorativa")
+        img.mb-5(src='@/assets/curso/tema1/paquete2.svg', alt="Se describe de manera detallada la organización de un paquete turístico teniendo en cuenta las motivaciones y necesidades de los clientes, el segmento del mercado, acontecimientos especiales.")
       .col-lg-3.col-8(data-aos="fade-left")
-        img.mb-5(src='@/assets/curso/tema1/paquete3.svg', alt="Imagen decorativa")
+        img.mb-5(src='@/assets/curso/tema1/paquete3.svg', alt="Se describe de manera detallada la organización de un paquete turístico teniendo en cuenta la temporada, acontecimientos especiales y el programa.")
       figcaption.text-center.mb-4(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
       p(data-aos="fade-right") Teniendo en claro esos puntos se puede seguir la siguiente ruta para crear un paquete turístico, tal como se explica en el siguiente recurso educativo:
     
@@ -2075,11 +2075,11 @@
         .row.justify-content-center.px-2
           .col-lg-11
             figure
-              img(src='@/assets/curso/tema1/slider37.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/slider37.png', alt="Imagen que muestra las categorías por escala de precios y las marcas a las que pertenecen en cada una de las categorías.")
         .row.justify-content-center.px-2
           .col-lg-11
             figure
-              img(src='@/assets/curso/tema1/slider38.png', alt="Imagen decorativa")
+              img(src='@/assets/curso/tema1/slider38.png', alt="Imagen que muestra la categorización por escala de precios.")
     
     separador
     #sostenibilidad.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -2122,7 +2122,7 @@
           h5 Figura 13.
           span Objetivos de Desarrollo Sostenible
         figure(data-aos="zoom-in")
-          img(src='@/assets/curso/tema1/imagen30.png', alt="Imagen decorativa")
+          img(src='@/assets/curso/tema1/imagen30.png', alt="Muestra gráficamente los objetivos del desarrollo sostenible que son los que se indican luego de la imagen.")
           figcaption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">Tomado de <a href="https://www.cepal.org/sites/default/files/styles/content_big/public/static/images/e_2018_ods_poster_with_un_emblem_es.png?itok=aSBP-hQC" target="_blank" style="color: #2196F3 !important; font-weight: 900">www.cepal.org</a></span>
 
     p(data-aos="fade-right") En el 2012, en Colombia se genera una política de naturaleza, y su objetivo es “posicionar a Colombia como destino de turismo de naturaleza, reconocido por el desarrollo de productos y servicios altamente competitivos y sostenibles”.
@@ -2180,7 +2180,7 @@
     
     .row.ampliarambos.justify-content-center.fondo40.mb-5
       .col-lg-8(data-aos="fade-right")
-        img(src='@/assets/curso/tema1/imagen32.png', alt="Imagen decorativa")
+        img(src='@/assets/curso/tema1/imagen32.png', alt="Describe los siete sectores a los que el gobierno hace más énfasis en el sector turístico y son:<br>Riveras de ríos, lagos y lagunas<br>Historia y cultura<br>Agroturismo<br>Ecoturismo<br>Deportes y aventura<br>Ferias y fiestas")
     
     .row.justify-content-around.align-items-center.mb-5
       .col-xxl-10.col-lg-11(data-aos="fade-right")
@@ -2277,7 +2277,7 @@
       h5 Tabla 6.
       span Datos Estadísticos CITUR
 
-    table.mb-5
+    table.mb-5(alt="Indica todos los datos estadísticos que ofrece el CITUR.")
       caption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
       <tr style="align-items: center;">
         <th class="fondo6 text-center anchocol"><h4 class="text-bold">Estadística económica</h4></th>

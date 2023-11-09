@@ -132,7 +132,7 @@
     
     .row.justify-content-center.mb-5
       .col-lg-3.col-md-4.col-sm-10.col-11.px-0(data-aos="fade-right")
-        img.ms-3(src='@/assets/curso/tema2/servicio1.svg', alt="Imagen decorativa")
+        img.ms-3(src='@/assets/curso/tema2/servicio1.svg', alt="Servicio al cliente, se indica lo que se debe tener en cuenta en la atención al cliente, ya que los detalles son muy importante en el sector turístico.")
       .col-lg-5.col-md-6.col-sm-1.col-1.px-0(data-aos="fade-left")
         img.nomostrar1.alto2(src='@/assets/curso/tema2/servicio2.png', alt="Imagen decorativa")
       figcaption.text-center(data-aos="fade-right") Nota: SENA (2022).
