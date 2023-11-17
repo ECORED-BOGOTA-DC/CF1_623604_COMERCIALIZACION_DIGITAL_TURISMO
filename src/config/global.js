@@ -377,6 +377,11 @@ export default {
           cargo: 'Líder del equipo',
           centro: 'Dirección General',
         },
+        {
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
+          centro: 'Dirección General',
+        },
       ],
     },
     {
@@ -443,6 +448,12 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
+          nombre: 'Yuly Andrea Rey',
+          cargo: 'Diseño web-2023',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
           nombre: 'Jorge Enrique Haylock Calderín',
           cargo: 'Desarrollo front-end',
           centro:
@@ -450,7 +461,7 @@ export default {
         },
         {
           nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          cargo: 'Desarrollo Fullstack-2023',
           centro:
             'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
@@ -475,6 +486,13 @@ export default {
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo:
+            'Validación de recursos educativos digitales y vinculación LMS',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Leyson Fabián Castaño Pérez',
