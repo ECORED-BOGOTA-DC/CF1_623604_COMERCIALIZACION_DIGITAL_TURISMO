@@ -373,14 +373,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Maria Camila Garcia Santamaria',
-          cargo: 'Líder del equipo',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Dirección General',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -413,6 +414,18 @@ export default {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de estilo ',
           centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Gloria Amparo López Escudero',
+          cargo: 'Adecuación instruccional-2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Alix Cecilia Chinchilla Rueda',
+          cargo: 'Asesoría metodológica y pedagógica - 2023',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -448,22 +461,10 @@ export default {
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
         {
-          nombre: 'Yuly Andrea Rey',
-          cargo: 'Diseño web-2023',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
           nombre: 'Jorge Enrique Haylock Calderín',
           cargo: 'Desarrollo front-end',
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
-        },
-        {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollo Fullstack-2023',
-          centro:
-            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Melina Tatiana Quintero Rodriguez',
@@ -471,16 +472,23 @@ export default {
           centro:
             'Centro Industrial del Diseño y la Manufactura Regional Santander',
         },
+        {
+          nombre: 'Yuly Andrea Rey Quiñonez',
+          cargo: 'Diseño web-2023',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Diego Fernando Velasco Güiza',
+          cargo: 'Desarrollo Fullstack-2023',
+          centro:
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
       ],
     },
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
-        {
-          nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
         {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluación de contenidos inclusivos y accesibles',
