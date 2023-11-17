@@ -21,7 +21,7 @@
     #objetivos.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Objetivos, características y beneficios del turismo
 
-    p.mb-5(data-aos="fade-right") Teniendo en cuenta los diferentes propósitos que enmarca el sector del turismo, se ha establecido como objetivos principales entre otros, los siguientes:
+    p.mb-5(data-aos="fade-right") Teniendo en cuenta los diferentes propósitos que enmarca el sector del turismo, se ha establecido como objetivos principales, entre otros, los siguientes:
     
     .row.justify-content-center.mb-5
       .col-auto.fondo2(data-aos="fade-right")
@@ -69,7 +69,7 @@
             h4.mb-3 Sociales
             p.mb-0 Está dirigido a satisfacer las necesidades de las personas.
 
-    p.mb-5(data-aos="fade-right") De igual forma, se ofrecen multiplicidad de beneficios como puede observarse en el siguiente recurso educativo:
+    p.mb-5(data-aos="fade-right") De igual forma, se ofrecen multiplicidad de beneficios, como puede observarse en el siguiente recurso educativo:
     
     .row.justify-content-center.mb-5
       .col-auto.fondo2
@@ -82,7 +82,7 @@
           p(numero="2" titulo="Crecimiento económico e inversión") Promueve el crecimiento económico y la inversión local en infraestructura y edificaciones aptas para el turismo, y servicios relacionados con el gremio.
           p(numero="3" titulo="Generación de empleo") Genera oportunidades de empleo, bien sea de forma directa o indirecta, estableciéndose mediante las temporadas de demanda o durante todo el año, de acuerdo con el lugar de destino.
           p(numero="4" titulo="Desarrollo de actividades asociadas") Contribuye a un mayor desarrollo de otras actividades como la agricultura, pesca y artesanía en los destinos receptores.
-          p(numero="5" titulo="Mejora en prestación de servicios") Los diferentes medios ofrecidos al turista como el de trasporte o de vías, mejoran en cuanto a la calidad y la frecuencia.
+          p(numero="5" titulo="Mejora en prestación de servicios") Los diferentes medios ofrecidos al turista, como el de trasporte o de vías, mejoran en cuanto a la calidad y la frecuencia.
           p(numero="6" titulo="Contribuye en la macroeconomía") Contribuye a la generación del PIB, balanza de pagos y otros indicadores macroeconómicos de diferentes países.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/imagen2.jpg', alt="Imagen decorativa")
@@ -99,7 +99,7 @@
           .row.px-2(titulo="Implica desplazamiento")
             p Desde el lugar de residencia habitual.
             p Este desplazamiento es voluntario y temporal, debe ser elegido y realizado por voluntad propia. Los individuos o grupos deciden por ellos mismos cuándo y hacia dónde desplazarse. 
-            p Y puede realizarse de forma individual o grupal.
+            p Puede realizarse de forma individual o grupal.
           .row.px-2(titulo="Motivación por diferentes razones")
             p La motivación principal no es realizar una actividad lucrativa o remunerada: no se incluyen los desplazamientos que buscan recibir un sueldo, salario o retribución en el lugar de destino.
             p.mb-0 Sus motivaciones fundamentales son ejercer el derecho al ocio y hacer uso del tiempo libre e implican recreación, descanso, cultura y salud.
@@ -123,19 +123,19 @@
 
           .tarjeta.fondo4.p-3(x="60.5%" y="13.3%" numero="+")
             .titulo-sexto.color-primario.mb-4
-              p.text-bold.mb-0 1. LA DEMANDA
+              p.text-bold.mb-0 1. La demanda
             p.mb-0 Formada por el conjunto de consumidores de bienes y servicios turísticos que buscan satisfacer sus necesidades de viaje. Según la OMT, es el conjunto de turistas que, de forma individual o colectiva, están motivados por una serie de productos o servicios turísticos con el objetivo de cubrir sus necesidades.
           .tarjeta.fondo4.p-3(x="60.5%" y="36%" numero="+")
             .titulo-sexto.color-primario.mb-4
-              p.text-bold.mb-0 2. LA OFERTA
+              p.text-bold.mb-0 2. La oferta
             p.mb-0 Son los productos y servicios que un destino pone a disposición del turista para que éste los adquiera al precio interno y por un periodo de tiempo determinado.
           .tarjeta.fondo4.p-3(x="60.5%" y="63.3%" numero="+")
             .titulo-sexto.color-primario.mb-4
-              p.text-bold.mb-0 3. EL ESPACIO GEOGRÁFICO
-            p.mb-0 Lugar donde se produce la interacción entre la oferta y la demanda, es decir donde se realiza la práctica de actividades turísticas. La planta turística y los atractivos turísticos son los elementos primordiales del espacio turístico.
+              p.text-bold.mb-0 3. El espacio geográfico
+            p.mb-0 Lugar donde se produce la interacción entre la oferta y la demanda, es decir, donde se realiza la práctica de actividades turísticas. La planta turística y los atractivos turísticos son los elementos primordiales del espacio turístico.
           .tarjeta.fondo4.p-3(x="60.5%" y="89.1%" numero="+")
             .titulo-sexto.color-primario.mb-4
-              p.text-bold.mb-0 4. LOS OPERADORES DEL MERCADO
+              p.text-bold.mb-0 4. Los operadores del mercado
             p.mb-0 Son aquellas empresas y organismos que facilitan la correcta relación entre la oferta y la demanda, como ejemplo de ellos se pueden nombrar: organismos públicos y privados dedicados a la regulación y/o a la promoción del turismo, compañías de transporte y agencias de viajes.
 
     p.mb-4(data-aos="fade-left") Según la OMT (1998) “los operadores turísticos son aquellos agentes que participan en la actividad turística en calidad de intermediarios entre el consumidor final (el turista, la demanda turística) y el producto turístico (bien o servicio, destino turístico) aunque puede extender su acción intermediadora al resto de la oferta complementaria (restaurantes, hoteles, conjunto de oferta de alojamiento, etc.)".
@@ -151,7 +151,7 @@
       .bloque-texto-g__texto.py-5.px-4(data-aos="fade-left")
         p.mb-0 Son todas las empresas que tienen contacto con los viajeros para proporcionarles diferentes bienes y servicios turísticos dentro de un territorio con atractivo especial. Para el caso de Colombia, todos deben contar con el Registro Nacional de Turismo y en lo posible cumplir con los requisitos de sostenibilidad del destino.
 
-    p(data-aos="fade-left") Los prestadores de servicios turísticos deben estar pendientes de que clientes o proveedores acaten las normas de operación local; adicionalmente deben asegurar la capacitación del personal de trabajo y hacer cumplir los principios de la actividad turística por parte de todos los visitantes. 
+    p(data-aos="fade-left") Los prestadores de servicios turísticos deben estar pendientes de que clientes o proveedores acaten las normas de operación local; adicionalmente, deben asegurar la capacitación del personal de trabajo y hacer cumplir los principios de la actividad turística por parte de todos los visitantes. 
     p.mb-5(data-aos="fade-left") Los prestadores de este tipo de servicios, tiene funciones específicas para con los diferentes actores del proceso, entre las que se encuentran:
 
     ImagenInfograficaB.color-acento-botones.mb-4
@@ -163,7 +163,7 @@
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
             h4.text-dark 1. Alojamiento y servicios de hospedaje
-            p.text-dark Establecimiento abierto al público en general, dedicado a brindar hospedaje temporal mediante precio, con o sin otros servicios complementarios como alimentación, <i>tours</i>, <i>spa</i> entre otros.
+            p.text-dark Establecimiento abierto al público en general, dedicado a brindar hospedaje temporal mediante precio, con o sin otros servicios complementarios como alimentación, <i>tours</i>, <i>spa,</i> entre otros.
             p.text-dark Puede ser un hotel, hotel-apartamento, hostal, pensión, casa rural, etc. 
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal1.svg', alt="Imagen decorativa")
@@ -196,7 +196,7 @@
                 | Agencias de viajes operadoras: se dedican profesionalmente a operar planes turísticos.
               li 
                 i.lista-ul__vineta
-                | Agencias mayoristas, que se dedican profesionalmente a programar y organizar planes turísticos
+                | Agencias mayoristas, que se dedican profesionalmente a programar y organizar planes turísticos.
           .col-xxl-4.col-lg-4.col-md-5
             img(src='@/assets/curso/tema1/figuramodal4.svg', alt="Imagen decorativa")
       div(x="67.5%" y="28.8%" tooltip="Click para leer mas...")
@@ -210,7 +210,7 @@
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
             h5 6. Operador profesional de eventos 
-            p Son Operadores Profesionales de Congresos, Ferias y Convenciones, las personas naturales o jurídicas legalmente constituidas que se dediquen a la organización de certámenes como congresos, convenciones, ferias, seminarios y reuniones similares, en sus etapas de gerenciamiento, planeación, promoción y realización, así como a la asesoría y/o producción de estos certámenes en forma total o parcial.
+            p Son operadores profesionales de congresos, ferias y convenciones, las personas naturales o jurídicas legalmente constituidas que se dediquen a la organización de certámenes como congresos, convenciones, ferias, seminarios y reuniones similares, en sus etapas de gerenciamiento, planeación, promoción y realización, así como a la asesoría y/o producción de estos certámenes en forma total o parcial.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal6.svg', alt="Imagen decorativa")
 
@@ -233,7 +233,7 @@
             ul.lista-ul--color.otralista.col-xxl.ps-4.pb-5.mb-5.col-xxl.pe-4.col-md.me-2.col-sm.ps-4.col-xl-11.col-xl.ms-3.col-10.mt-sm-3.margenxs.mt-3
               li(data-aos="fade-right") 
                 i.fas.fa-circle.fa-xs 
-                | Son visitantes que pernotan o amanecen en el lugar.
+                | Son visitantes que pernoctar o amanecen en el lugar.
               li(data-aos="fade-right")
                 i.fas.fa-circle.fa-xs 
                 | Su estancia es superior o igual a 24 horas en el destino.
@@ -262,14 +262,14 @@
           img(src='@/assets/curso/tema1/figura1.svg', alt="Imagen decorativa")
         .col-xl-11.col-lg-10
           h4 Motivación para realizar el viaje
-          p.mb-0 Cada turista o excursionista a su vez, tiene diferentes motivaciones para realizar su viaje. En el contexto turístico, este término se define como el conjunto de necesidades o fuerzas psicológicas que “predisponen a una persona a participar en una actividad turística”. 
+          p.mb-0 Cada turista o excursionista, a su vez, tiene diferentes motivaciones para realizar su viaje. En el contexto turístico, este término se define como el conjunto de necesidades o fuerzas psicológicas que “predisponen a una persona a participar en una actividad turística”. 
 
     .row.justify-content-center.mb-5
       .col-lg-6.col-md-8(data-aos="fade-down")
         img(src='@/assets/curso/tema1/piramide.svg', alt="Imagen que muestra la Pirámide de Maslow, que muestra 5 niveles de arriba hacía abajo donde en cada nivel se encuentra:<br>1. Autorrealización.<br>2. Necesidades del sistema.<br>3. Necesidades sociales.<br>4. Seguridad.<br>5. Necesidad básica.")
 
     p(data-aos="fade-left") Respecto a la satisfacción de necesidades, se ha hablado mucho en la literatura, sin embargo, el autor que ha sido más reconocido en el tema, ha sido Maslow, quien brindó una teoría psicológica a partir de la cual se diseñó la jerarquía de las necesidades humanas que incluye las de seguridad (protección, seguridad o refugio), las fisiológicas (hambre, descanso o sed), las necesidades de estima (autoestima, estatus o reconocimiento por los demás), las necesidades sociales (de amor o pertenencia), y las necesidades de autorrealización (de realización y desarrollo personal).  
-    p.mb-5(data-aos="fade-left") Así pues, se puede decir que todos los viajes pueden tener un objetivo o finalidad diferente; habrá quienes busquen recreación, o quienes lo hagan por motivos profesionales o bien por otras razones como estudio, salud entre otros (ver tabla 1).
+    p.mb-5(data-aos="fade-left") Así pues, se puede decir que todos los viajes pueden tener un objetivo o finalidad diferente; habrá quienes busquen recreación, o quienes lo hagan por motivos profesionales o bien por otras razones como estudio, salud, entre otros (ver tabla 1).
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
       h5 Tabla 1.
@@ -462,7 +462,7 @@
           .col-lg-5.order-lg-1.order-2
             h4 El turista comprador
             p La principal motivación para viajar es adquirir productos por fuera de su país de origen. En el <i>"shopping"</i> se prioriza la calidad tanto en los comercios donde se realizan las compras como en el tiempo que se dedica a las mismas.
-            p Este tipo de turistas combina sus viajes con el turismo cultural conociendo así los lugares más importantes del destino, así como sus mejores lugares para comprar.
+            p Este tipo de turistas combina sus viajes con el turismo cultural, conociendo así los lugares más importantes del destino, así como sus mejores lugares para comprar.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/comprador.png', alt="Imagen decorativa")
@@ -484,7 +484,7 @@
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
             h4 <i>PANK</i>: tías con sobrinos
-            p Las <i>PANK (Professional Aunt, No Kids)</i> son mujeres que no tienen hijos pero que se llevan de viaje a sus sobrinos. 
+            p Las <i>PANK (Professional Aunt, No Kids)</i> son mujeres que no tienen hijos, pero que se llevan de viaje a sus sobrinos. 
             p Es una tendencia al alza que ya se está convirtiendo en todo un nicho de mercado, sobre todo en EEUU y Europa.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
@@ -493,7 +493,7 @@
           .col-lg-5.order-lg-1.order-2
             h4 Viajeros solos
             p Con edades entre los 35 y los 60 en busca de destinos poco convencionales durante cualquier época del año.
-            p Ese es el perfil predominante del viajero single, un nuevo tipo de turista que apuesta por descubrir el mundo en solitario.
+            p Ese es el perfil predominante del viajero #[em single], un nuevo tipo de turista que apuesta por descubrir el mundo en solitario.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/solos.png', alt="Imagen decorativa")
@@ -502,7 +502,7 @@
     #evolucion.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Evolución del turismo
 
-    p.mb-5(data-aos="fade-left") Para el caso colombiano, el turismo comenzó a desarrollarse en mayor medida con la llegada del tren a comienzos del siglo XX, lo que permitió que varias familias pudieran realizar viajes cortos de descanso y diversión a los destinos cercanos a sus hogares. Lo anterior también impulsó la organización de <i>“tours”</i>, ya que algunas personas comenzaron a ofrecer viajes incluyendo los pasajes de tren, alimentación, alojamientos en establecimientos como fincas y hoteles, y visitas a monumentos y recintos religiosos. Se podrá entender un poco más sobre la evolución del turismo con la siguiente línea del tiempo:
+    p.mb-5(data-aos="fade-left") Para el caso colombiano, el turismo comenzó a desarrollarse en mayor medida con la llegada del tren a comienzos del siglo XX, lo que permitió que varias familias pudieran realizar viajes cortos de descanso y diversión a los destinos cercanos a sus hogares. Lo anterior también impulsó la organización de <i>“tours”</i>, ya que algunas personas comenzaron a ofrecer viajes, incluyendo los pasajes de tren, alimentación, alojamientos en establecimientos como fincas y hoteles, y visitas a monumentos y recintos religiosos. Se podrá entender un poco más sobre la evolución del turismo con la siguiente línea del tiempo:
     
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xxl-10.fondo9
@@ -533,7 +533,7 @@
           p(numero="1" titulo="Ecoturismo y turismo sostenible") Un modo de hacer turismo que consiste en el respeto por el medio ambiente y el planeta, acorde con los principios de sostenibilidad y la conservación de los recursos de los destinos turísticos.
           p(numero="2" titulo="<i>Mindful Travel</i>") Es un modo de viajar relacionado con el bienestar, autocuidado y la transformación personal. Son viajes tranquilos donde no se cumple con horarios estrictos ya que su principal objetivo es que los turistas, realmente conecten con el destino, con su cultura, sus costumbres y tradiciones.
           p(numero="3" titulo="Experiencias turísticas") Los turistas buscan experiencias memorables, sentir emociones y vivir aventuras placenteras en cada uno de sus viajes. El viajero experto busca actividades distintas, destinos turísticos que ofrezcan atractivos y experiencias diferentes, lejos del turismo masivo y en busca de vivencias en lugares especiales.
-          p(numero="4" titulo="Turismo de viajes nómadas") Son los empresarios y empleados que se desplazan hacia cualquier destino con la intención de trabajar a distancia. Este tipo de turismo también combinado con los viajes, es una oportunidad excelente para que los destinos ofrezcan espacios ideales para trabajar y a la vez viajar. 
+          p(numero="4" titulo="Turismo de viajes nómadas") Son los empresarios y empleados que se desplazan hacia cualquier destino con la intención de trabajar a distancia. Este tipo de turismo, también combinado con los viajes, es una oportunidad excelente para que los destinos ofrezcan espacios ideales para trabajar y a la vez viajar. 
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/imagen5.jpg")
     
@@ -587,7 +587,7 @@
           .tarjeta
             p.px-5.ms-3 El realizado por los residentes en el territorio económico del país.
     
-    p.mb-5(data-aos="fade-right") En cuanto al turismo según la actividad desarrollada, en el siguiente recurso se podrá consultar con mayor detalle, la clasificación respectiva:
+    p.mb-5(data-aos="fade-right") En cuanto al turismo según la actividad desarrollada, en el siguiente recurso se podrá consultar, con mayor detalle, la clasificación respectiva:
     
     .row.justify-content-center.mb-5
       .col-auto.fondo2(data-aos="fade-right")
@@ -630,7 +630,7 @@
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
             h4 Turismo de negocios
-            p Los viajes de negocios, MICE (por sus siglas en ingles,<i> Meetings, Incentives, Conventions and Exhibitions</i>), se refiere a los traslados de una ciudad o país a otra, relacionados con actividades corporativas o laborales. Este puede ser individual o grupal.
+            p Los viajes de negocios, MICE (por sus siglas en inglés,<i> Meetings, Incentives, Conventions and Exhibitions</i>), se refiere a los traslados de una ciudad o país a otra, relacionados con actividades corporativas o laborales. Este puede ser individual o grupal.
             ul.lista-ul--color
               li 
                 i.fas.fa-caret-right
@@ -664,7 +664,7 @@
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
             h4 El turismo urbano
-            p Son los viajes realizados a las grandes ciudades y centros urbanos del mundo. El turista busca grandes aeropuertos con vuelos directos a cualquier parte del mundo, amplia infraestructura hotelera (adaptada a todas las necesidades) y una gran oferta gastronómica y actividades de ocio. El turismo urbano engloba a su vez relaciones de negocios, turismo educativo y turismo cultural puesto que las ciudades aglutinan una variada y robusta oferta de ocio y entretenimiento.
+            p Son los viajes realizados a las grandes ciudades y centros urbanos del mundo. El turista busca grandes aeropuertos con vuelos directos a cualquier parte del mundo, amplia infraestructura hotelera (adaptada a todas las necesidades) y una gran oferta gastronómica y actividades de ocio. El turismo urbano engloba a su vez relaciones de negocios, turismo educativo y turismo cultural, puesto que las ciudades aglutinan una variada y robusta oferta de ocio y entretenimiento.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/noche.png', alt="Imagen decorativa")
@@ -772,7 +772,7 @@
       .py-3.py-md-4(titulo="Proyectos generados en la ley 1558 de 2012 de turismo")
         .row.justify-content-center
           .col-lg-7.order-lg-1.order-2
-            p Comités locales para la Organización de las Playas  que divide las zonas así:
+            p Comités locales para la organización de las playas que divide las zonas así:
             ul.lista-ul--color
               li 
                 i.fas.fa-caret-right
@@ -786,9 +786,6 @@
               li 
                 i.fas.fa-caret-right
                 | Zonas destinadas a la prestación de otros servicios relacionados con las actividades de aprovechamiento del tiempo libre que desarrollen los usuarios de las playas.
-              li 
-                i.fas.fa-caret-right
-                | Aprovechamiento del tiempo libre que desarrollen los usuarios de las playas.
           .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/ley1.jpg', alt="Imagen decorativa")
@@ -837,7 +834,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-left")
         .cajon.puntacajon.fondo17.sombracajon.p-4.mb-4
-          p.mb-0 Todo sistema es un conjunto de partes jerarquizadas que se interrelacionan y se coordinan entre sí permitiendo alcanzar una determinada función o comportamiento. El turismo a su vez es un conjunto de elementos conectados entre sí que generan repercusiones positivas o negativas en un territorio concreto. Todos esos elementos conforman un sistema donde las partes están conectadas. No existe una sola forma de explicar el sistema turístico ya que han sido diferentes los autores que han abordado el tema, sin embargo, todos ellos concuerdan en que el sistema turístico tiene varias facetas y a su vez, el estudio de cada una de ellas ha permitido crear varios modelos que buscan analizar su funcionamiento.
+          p.mb-0 Todo sistema es un conjunto de partes jerarquizadas que se interrelacionan y se coordinan entre sí permitiendo alcanzar una determinada función o comportamiento. El turismo a su vez es un conjunto de elementos conectados entre sí, que generan repercusiones positivas o negativas en un territorio concreto. Todos esos elementos conforman un sistema donde las partes están conectadas. No existe una sola forma de explicar el sistema turístico, ya que han sido diferentes los autores que han abordado el tema, sin embargo, todos ellos concuerdan en que el sistema turístico tiene varias facetas y a su vez, el estudio de cada una de ellas ha permitido crear varios modelos que buscan analizar su funcionamiento.
         p Una de las teorías más utilizadas es la de Roberto Boullón propuesta en el 2004, quien caracteriza esas facetas del sistema turístico teniendo en cuenta la oferta y la demanda, tal como puede observarse en la siguiente figura 5:        
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/imagen7.jpg', alt="Imagen decorativa")
@@ -865,7 +862,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
                 h4.text-dark 1. La demanda
-                p.text-dark Esta formada por el conjunto de consumidores de bienes y servicios turísticos que buscan satisfacer sus necesidades de viaje. 
+                p.text-dark Está formada por el conjunto de consumidores de bienes y servicios turísticos que buscan satisfacer sus necesidades de viaje. 
                 p.text-dark Según la OMT  “Es el conjunto de turistas que, de forma individual o colectiva, están motivados por una serie de productos o servicios turísticos con el objetivo de cubrir sus necesidades".
 
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
@@ -874,7 +871,7 @@
             .row.justify-content-center.align-items-center
               .col-lg-6.order-lg-1.order-2
                 h4 2. La oferta
-                p Es el conjunto de productos y servicios de un destino que se ponen a disposición del turista para que éste los adquiera al precio interno y por un periodo de tiempo determinado.
+                p Es el conjunto de productos y servicios de un destino que se ponen a disposición del turista para que este los adquiera al precio interno y por un periodo de tiempo determinado.
               .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/oferta.png', alt="Imagen decorativa")
 
@@ -896,7 +893,7 @@
               .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4
                 img(src='@/assets/curso/tema1/planta.svg', alt="Imagen decorativa")
 
-    p(data-aos="fade-left") Anteriormente, se menciona que la planta turística está conformada por equipamiento e instalaciones. Es importante detenerse un poco en este punto. El equipamiento hace referencia a los lugares que le facilitan la estancia al turista y le permiten su estadía como hoteles, restaurantes, lugares de esparcimiento y otros. Las instalaciones por su parte son las construcciones que le permiten al visitante la práctica de actividades turísticas. 
+    p(data-aos="fade-left") Anteriormente, se menciona que la planta turística está conformada por equipamiento e instalaciones. Es importante detenerse un poco en este punto. El equipamiento hace referencia a los lugares que le facilitan la estancia al turista y le permiten su estadía como hoteles, restaurantes, lugares de esparcimiento y otros. Las instalaciones, por su parte, son las construcciones que le permiten al visitante la práctica de actividades turísticas. 
     p.mb-5(data-aos="fade-left") En la siguiente tabla 3 se especifica en los elementos del equipamiento turístico:
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-right")
@@ -940,7 +937,7 @@
                 p.mb-0.pb-0 Albergues 
                 p.mb-0.pb-0 <i>Trailer parks</i>
                 p.mb-0.pb-0 <i>Campings</i>
-                p.mb-0.pb-0 Camas en casas de familia.
+                p.mb-0.pb-0 Camas en casas de familia
               td.alinearArriba.bordetabla
                 p.mb-0.pb-0 Restaurantes
                 p.mb-0.pb-0 Cafeterías
@@ -953,7 +950,7 @@
                 p.mb-0.pb-0 Casinos y otros juegos de azar
                 p.mb-0.pb-0 Otros espectáculos públicos (toros, riñas de gallo, rodeos, etc.)
                 p.mb-0.pb-0 Clubes deportivos
-                p.mb-0.pb-0 Parques temáticos.
+                p.mb-0.pb-0 Parques temáticos
               td.alinearArriba
                 p.mb-0.pb-0 Agencias de viajes
                 p.mb-0.pb-0 Información
@@ -964,7 +961,7 @@
                 p.mb-0.pb-0 Transporte turístico
                 p.mb-0.pb-0 Primeros auxilios
                 p.mb-0.pb-0 Guarderías 
-                p.mb-0.pb-0 Estacionamientos.
+                p.mb-0.pb-0 Estacionamientos
           </table>
         </div>
    
@@ -981,10 +978,10 @@
         img.nomostrar1.alto1(src='@/assets/curso/tema1/clase2.png', alt="Imagen decorativa")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">Propuesta de un modelo alternativo de funcionamiento del sistema turístico. Abarca Zaquinaula, M (s.f.).</span>
     
-    p.mb-5(data-aos="fade-left") En cuanto a la infraestructura turística, se debe recordar que se trata de todas las obras y servicios que no solo apoyan al sector del turismo sino, también a los demás sectores para que las actividades económicas de un destino se desarrollen con normalidad. Puede existir infraestructura netamente creada para el turismo como caminos, vías marítimas, etc. Sin embargo, la infraestructura es una de las bases esenciales para el desarrollo de cualquier territorio. Los componentes de la infraestructura dedicada al turismo son:
+    p.mb-5(data-aos="fade-left") En cuanto a la #[b infraestructura turística], se debe recordar que se trata de todas las obras y servicios que no solo apoyan al sector del turismo sino, también a los demás sectores para que las actividades económicas de un destino se desarrollen con normalidad. Puede existir infraestructura netamente creada para el turismo como caminos, vías marítimas, etc. Sin embargo, la infraestructura es una de las bases esenciales para el desarrollo de cualquier territorio. Los componentes de la infraestructura dedicada al turismo son:
 
     .row.justify-content-center.mb-5
-      .col-lg-4.col-lg-6.col-md-10.mb-4(data-aos="flip-right")
+      .col-lg-4.col-md-10.mb-4(data-aos="flip-right")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -992,7 +989,7 @@
           .crd_hover_txt--body.nuevocolor
             h4.mb-3 Rutas de acceso
             p.mb-0 Pueden ser terrestre, área, lacustre, marítima, redes viales, aeropuertos, terminales, etc.
-      .col-lg-4.col-lg-6.col-md-10.mb-4(data-aos="flip-up")
+      .col-lg-4.col-md-10.mb-4(data-aos="flip-up")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -1000,7 +997,7 @@
           .crd_hover_txt--body.nuevocolor
             h4.mb-3 Comunicaciones
             p.mb-0 Abarca los servicios de teléfono, correo, internet, correo electrónico, etc.
-      .col-lg-4.col-lg-6.col-md-10.mb-4(data-aos="flip-left")
+      .col-lg-4.col-md-10.mb-4(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -1009,7 +1006,7 @@
             h4.mb-3 Equipamiento urbano
             p.mb-0.me-5 Comprende los servicios de agua, desagüe, alcantarillado y energía eléctrica.
 
-    p.mb-5(data-aos="fade-left") Cuando se habla de la superestructura, se integra tanto por organismos públicos como privados que tienen la misión de planificar, optimizar y regular el funcionamiento del sistema turístico, facilitando la producción y venta de los servicios por los cuales está compuesto el producto turístico.
+    p.mb-5(data-aos="fade-left") Cuando se habla de la #[b superestructura], se integra tanto por organismos públicos como privados que tienen la misión de planificar, optimizar y regular el funcionamiento del sistema turístico, facilitando la producción y venta de los servicios por los cuales está compuesto el producto turístico.
     
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-lg-10
@@ -1019,7 +1016,7 @@
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         .cajon.puntacajon2.p-4.mb-4.fondo18.sombracajon
-          p.mb-0 Por otra parte, los recursos y atractivos turísticos requieren ser diferenciados entre sí. Los primeros son aquellos elementos naturales, culturales y humanos que contribuyen a generar el desplazamiento de los turistas (son potencialmente explotables por el turismo);  los segundos, “son los recursos turísticos que cuentan con las condiciones necesarias para ser visitados y disfrutados por el turista, es decir, que cuentan con planta turística, medios de transporte, servicios complementarios e infraestructura básica” (Boullon, 2006). Con esto se puede decir entonces, que no todos los recursos son atractivos turísticos.
+          p.mb-0 Por otra parte, los #[b recursos y atractivos turísticos] requieren ser diferenciados entre sí. Los primeros son aquellos elementos naturales, culturales y humanos que contribuyen a generar el desplazamiento de los turistas (son potencialmente explotables por el turismo);  los segundos, “son los recursos turísticos que cuentan con las condiciones necesarias para ser visitados y disfrutados por el turista, es decir, que cuentan con planta turística, medios de transporte, servicios complementarios e infraestructura básica” (Boullon, 2006). Con esto se puede decir entonces, que no todos los recursos son atractivos turísticos.
         p Como se puede observar en el siguiente recurso educativo, la diferenciación entre estos (recursos y atractivos turísticos), se encuentran en derredor e incorporados en el ambiente que rodea al turista:       
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen8.jpg', alt="Imagen decorativa")
@@ -1056,7 +1053,7 @@
         h3.text-dark Acontecimientos programados
         p.text-dark Artísticos, deportivos, ferias y exposiciones, concursos, fiestas religiosas y profanas y carnavales.
     
-    p.mb-4(data-aos="fade-left") Al respecto del Patrimonio turístico, este se refiere al conjunto de bienes tangibles e intangibles que se clasifican como naturales y culturales, y que funcionan como atractivos para el conocimiento y disfrute del turista; además sirven como motores de motivación para que los turistas se desplacen desde su lugar de residencia. El Patrimonio turístico está conformado por la infraestructura y la superestructura turística, así como por la cantidad de activos turísticos, la planta y las instalaciones turísticas.
+    p.mb-4(data-aos="fade-left") Al respecto del #[b Patrimonio turístico], este se refiere al conjunto de bienes tangibles e intangibles que se clasifican como naturales y culturales, y que funcionan como atractivos para el conocimiento y disfrute del turista; además sirven como motores de motivación para que los turistas se desplacen desde su lugar de residencia. El Patrimonio turístico está conformado por la infraestructura y la superestructura turística, así como por la cantidad de activos turísticos, la planta y las instalaciones turísticas.
     
     separador
     #inventario.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -1067,7 +1064,7 @@
         img(src='@/assets/curso/tema1/imagen9.jpg', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-right")
         .cajon.puntacajon.fondo17.sombracajon.p-4.mb-4
-          p.mb-0 Es un instrumento valioso que sirve para registrar ordenadamente los atractivos físicos y culturales de un destino, a partir de sus características, su estado de conservación y su clasificación. El inventario le facilita el trabajo al agente de viajes, al planeador turístico o a los guías para poder determinar con bases claras cuáles atractivos se pueden incluir o no, en un producto turístico regional; de igual manera, este instrumento de registro sirve para realizar evaluaciones a dichos atractivos y así determinar las prioridades necesarias para el desarrollo turístico nacional. También es importante aclarar que la información condensada en este inventario, debe ser actualizada permanentemente para que cumpla con las funciones dichas anteriormente.
+          p.mb-0 Es un instrumento valioso que sirve para registrar ordenadamente los atractivos físicos y culturales de un destino, a partir de sus características, su estado de conservación y su clasificación. El inventario le facilita el trabajo al agente de viajes, al planeador turístico o a los guías para poder determinar, con bases claras cuáles atractivos se pueden incluir o no, en un producto turístico regional; de igual manera, este instrumento de registro sirve para realizar evaluaciones a dichos atractivos y así determinar las prioridades necesarias para el desarrollo turístico nacional. También es importante aclarar que la información condensada en este inventario, debe ser actualizada permanentemente para que cumpla con las funciones dichas anteriormente.
         p.mb-0 Para dar inicio al inventario turístico es necesario llevar a cabo la clasificación de los bienes y atractivos del lugar o lugares seleccionados. La evaluación de los recursos y atractivos susceptibles de uso turístico que serán incluidos en el inventario, debe ser realizada objetivamente por un grupo interdisciplinario, formado por profesionales de varias ciencias del saber y determinado por el organismo público encargado del manejo del turismo en la región o municipio.
     
     p(data-aos="fade-right") Los profesionales que participen de la creación del inventario tendrán la potestad para clasificar los atractivos en dos grupos: patrimonio cultural y sitios naturales. 
@@ -1078,7 +1075,7 @@
         .row.justify-content-center
           .col-lg-7.order-lg-1.order-2
             p Se caracteriza por tener un cuerpo físico que puede ser dimensionado y percibido sensorialmente.
-            p Esta constituido por el territorio geográfico con sus recursos ambientales y naturales, los hechos construidos, los sistemas de transporte y las obras de infraestructura como vías, caminos  y puentes, entre otros; y todo el universo de herramientas, utensilios, máquinas y demás objetos que apoyan la vida productiva y cotidiana.
+            p Está constituido por el territorio geográfico, con sus recursos ambientales y naturales, los hechos construidos, los sistemas de transporte y las obras de infraestructura como vías, caminos  y puentes, entre otros; y todo el universo de herramientas, utensilios, máquinas y demás objetos que apoyan la vida productiva y cotidiana.
           .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/imagen10.jpg', alt="Imagen decorativa")
@@ -1118,7 +1115,7 @@
     
     .row.justify-content-between.mb-5
       .col-lg-3.col-md-6.fondo23.p-5(data-aos="fade-right")
-        p El producto turístico se diseña teniendo en cuenta las características de los diferentes nichos de mercado y la motivación que éstos presentan para viajar. De igual manera todo producto turístico debe brindar 3 tipos de beneficios como se puede ver a continuación:
+        p El producto turístico se diseña teniendo en cuenta las características de los diferentes nichos de mercado y la motivación que estos presentan para viajar. De igual manera, todo producto turístico debe brindar 3 tipos de beneficios como se puede ver a continuación:
       .col-lg-3.col-md-6.fondo22.pt-3(data-aos="flip-right")
         .row
           .col-xl-4.col-lg-5.col-4
@@ -1138,17 +1135,17 @@
           .col-12
             p.py-3.px-4 Los beneficios vivenciales están relacionados con los cinco sentidos del ser humano, es decir, experiencias y vivencias resultantes de la actividad turística. Ej. Ofrecer experiencias únicas, especiales, poco comunes, que la experiencia sea segura.
     
-    p(data-aos="fade-left") Cuando se piensa en crear productos turísticos, lo debe hacer de tal forma que sean novedosos, oportunos y eficaces para que aporten un valor económico, social y ambiental, tanto para el destino como para los turistas quienes finalmente los disfrutarán.
-    p.mb-5(data-aos="fade-left") En dicho sentido, los componentes necesarios para tal fin según la Subdirección de Productos y Destinos Sustentables Sernatur (2015) son:
+    p(data-aos="fade-left") Cuando se piensa en crear productos turísticos, lo debe hacer de tal forma que sean novedosos, oportunos y eficaces para que aporten un valor económico, social y ambiental, tanto para el destino como para los turistas, quienes finalmente los disfrutarán.
+    p.mb-5(data-aos="fade-left") En dicho sentido, los componentes necesarios para tal fin, según la Subdirección de Productos y Destinos Sustentables Sernatur (2015) son:
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Atractivo turístico") Es todo lugar, objeto o acontecimiento de interés turístico. Estos pueden ser atractivos naturales o culturales. Y pueden ser:<br/><br/><span style="font-weight: 700;"> Naturales: </span><span> aquellos asociados a la geografía y la ecología, como los relacionados con las playas, el mar, la costa, el clima, el sol, la orografía, las montañas, los ríos, la flora, la fauna.</span><br/><br/><span style="font-weight: 700;">Asociados al ocio: </span><span> instalaciones existentes para la práctica de diferentes tipos de deportes.</span><br/><br/><span style="font-weight: 700;">Recursos Culturales e históricos: </span><span> monumentos arqueológicos, religiosos, museos, cascos antiguos, entre otros.</span>
-          p(numero="2" titulo="Servicio turístico") Son todos los servicios que el turista requiere y consume mientras está de viaje como el alojamiento, alimentación, transporte, agencias de viajes, etc.
+          p(numero="1" titulo="Atractivo turístico") Es todo lugar, objeto o acontecimiento de interés turístico. Estos pueden ser atractivos naturales o culturales. Estos pueden ser:<br/><br/><span style="font-weight: 700;"> Naturales: </span><span> aquellos asociados a la geografía y la ecología, como los relacionados con las playas, el mar, la costa, el clima, el sol, la orografía, las montañas, los ríos, la flora, la fauna.</span><br/><br/><span style="font-weight: 700;">Asociados al ocio: </span><span> instalaciones existentes para la práctica de diferentes tipos de deportes.</span><br/><br/><span style="font-weight: 700;">Recursos culturales e históricos: </span><span> monumentos arqueológicos, religiosos, museos, cascos antiguos, entre otros.</span>
+          p(numero="2" titulo="Servicio turístico") Son todos los servicios que el turista requiere y consume mientras está de viaje, como el alojamiento, alimentación, transporte, agencias de viajes, etc.
           p(numero="3" titulo="Infraestructura turística") Es la dotación de bienes y servicios básicos con que cuenta un país, departamento o municipio y permite que el viaje sea cómodo y agradable, se puede clasificar en: red de transportes (red ferroviaria y vial), terminales terrestres (aeropuertos, terminales de buses, puertos, etc.), redes de servicios básicos (agua potable, electricidad, etc.), redes de comunicaciones (correo, teléfonos fijos, equipos celulares, fax, Internet, etc.).
           p(numero="4" titulo="Comunidad local") Habitantes, costumbres y tradiciones<br/><br/>El producto turístico debe incluir a los residentes, ya que son ellos los que ponen la diferencia principal entre un lugar y otro. En definitiva, es el sello que hace que un lugar sea agradable y único para visitar, es lo que lo hace diferente.
-          p(numero="5" titulo="Servicio turístico") Percepción - Imagen - Emoción (Sensación) <br/>independiente de las características que posea un destino concreto, no todos los turistas que lo visitan van a percibirlo de igual forma, ya que cada uno construirá su propia imagen del destino y esto lo va a conectar con una emoción que finalmente se transforma en sensaciones.<br/><br/>También debemos tener presente que normalmente un turista no se satisface a partir de la oferta de un solo proveedor. El transporte, la alimentación, el alojamiento y las actividades serán entregadas por muchos oferentes distintos, razón por la que el éxito de nuestro producto depende del éxito de la combinación de estos oferentes.
+          p(numero="5" titulo="Percepción - Imagen - Emoción (Sensación)") Independiente de las características que posea un destino concreto, no todos los turistas que lo visitan van a percibirlo de igual forma, ya que cada uno construirá su propia imagen del destino y esto lo va a conectar con una emoción que finalmente se transforma en sensaciones.<br/><br/>También debemos tener presente que normalmente un turista no se satisface a partir de la oferta de un solo proveedor. El transporte, la alimentación, el alojamiento y las actividades serán entregadas por muchos oferentes distintos, razón por la que el éxito de nuestro producto depende del éxito de la combinación de estos oferentes.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img.mt-4(src="@/assets/curso/tema1/imagen14.jpg")
     
@@ -1165,11 +1162,11 @@
             caption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">Costo. Enciclopedia Concepto (2022).</span>
             tr.fondo6(data-aos="fade-right")
               th 
-                h4.text-center.bordetablablanco GASTO
+                h4.text-center.bordetablablanco Gasto
               td
-                h4.text-center.bordetablablanco COSTO
+                h4.text-center.bordetablablanco Costo
               td
-                h4.text-center DIFERENCIA ENTRE GASTO Y COSTO
+                h4.text-center Diferencia entre gasto y costo
             tr(data-aos="fade-right")
               th.alinearArriba.bordetabla
                 p Una partida que disminuye las ganancias (beneficio) de la empresa y que, por ende, contribuye a aumentar sus pérdidas (deuda).
@@ -1185,7 +1182,7 @@
 
     .row.fondo16.ampliarambos.mb-5
       .col-12.px-5(data-aos="fade-up")
-        ImagenInfografica.color-secundario
+        ImagenInfograficaB.color-secundario
           template(v-slot:imagen)
             figure
               img(src="@/assets/curso/tema1/grafica1.svg" alt="Gráfico que representa y describe los diferentes tipos de costos y gastos que se generan en la industria del turismo, de igual manera se transcribe su información luego de la imagen.")
@@ -1195,7 +1192,7 @@
             span Son aquellos costos que posee una empresa más allá de la producción obtenida, es decir, que su valor no varía según lo producido. Ejemplos: el pago de alquileres y los impuestos.
           .tarjeta.fondo24.p-3(x="38.1%" y="36%" numero="+")
             p.text-bold.mb-0 Costos variables
-            span Varían en relación a lo producido, es decir, que si se aumenta la producción estos costos serán mayores y viceversa. Ejemplos: la cantidad de materia prima utilizada, el embalaje y empaquetado de los productos.
+            span Varían en relación a lo producido, es decir, que si se aumenta la producción, estos costos serán mayores y viceversa. Ejemplos: la cantidad de materia prima utilizada, el embalaje y empaquetado de los productos.
           .tarjeta.fondo24.p-3(x="38.1%" y="51%" numero="+")
             p.text-bold.mb-0 Costos directos
             span Pueden ser asignados a cada bien o servicio en particular. Ejemplos: el aumento de harina (que tiene una repercusión directa sobre la producción de pan) o el aumento de tinta (que impacta en la producción de libros).
@@ -1282,8 +1279,8 @@
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-secundario
-          p(numero="1" titulo="Agencias de viajes y turismo") Son las empresas comerciales, debidamente constituidas por personas naturales o jurídicas que se dediquen profesionalmente a vender planes turísticos.<br/><span style="margin-left: 5px;">Funciones:</span><br/><ul style="color: margin-left: 10px;"><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar, promover y vender planes turísticos nacionales, para ser operados por las agencias de viajes operadoras establecidas legalmente en el país.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar, promover y vender planes turísticos para ser operados fuera del territorio nacional.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Reservar y contratar alojamiento y demás servicios turísticos.</span></li><li><span style="color: #12263F;">Reservar cupos y vender pasajes nacionales e internacionales en cualquier medio de transporte.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Operar turismo receptivo, para lo cual deberán contar con un departamento de turismo receptivo y cumplir con las funciones propias de las agencias de viajes operadoras.</span></li></ul>
-          p(numero="2" titulo="Agencias de viajes operadoras") Son las empresas comerciales, debidamente constituidas por personas naturales o jurídicas que se dediquen profesionalmente a operar planes turísticos.<br/><span style="margin-left: 5px;">Funciones:</span><br/><ul style="color: margin-left: 10px;"><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Operar dentro del país planes turísticos, programados por agencias de viajes del exterior y del país.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar y promover planes turísticos para ser operados por ellas mismas, sus sucursales y agencias si las tuviere, de acuerdo con la ubicación de cada una de ellas dentro del territorio nacional.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Prestar los servicios de transporte turístico de acuerdo con las disposiciones que reglamentan la materia.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Brindar equipo especializado tal como implementos de caza y pesca, buceo y otros elementos deportivos, cuando la actividad lo requiera.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Prestar el servicio de guianza con personas debidamente inscritas en el Registro Nacional de Turismo.</span></li></ul>
+          p(numero="1" titulo="Agencias de viajes y turismo") Son las empresas comerciales, debidamente constituidas por personas naturales o jurídicas, que se dediquen profesionalmente a vender planes turísticos.<br/><span style="margin-left: 5px;">Funciones:</span><br/><ul style="color: margin-left: 10px;"><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar, promover y vender planes turísticos nacionales, para ser operados por las agencias de viajes operadoras establecidas legalmente en el país.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar, promover y vender planes turísticos para ser operados fuera del territorio nacional.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Reservar y contratar alojamiento y demás servicios turísticos.</span></li><li><span style="color: #12263F;">Reservar cupos y vender pasajes nacionales e internacionales en cualquier medio de transporte.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Operar turismo receptivo, para lo cual deberán contar con un departamento de turismo receptivo y cumplir con las funciones propias de las agencias de viajes operadoras.</span></li></ul>
+          p(numero="2" titulo="Agencias de viajes operadoras") Son las empresas comerciales, debidamente constituidas por personas naturales o jurídicas, que se dediquen profesionalmente a operar planes turísticos.<br/><span style="margin-left: 5px;">Funciones:</span><br/><ul style="color: margin-left: 10px;"><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Operar dentro del país planes turísticos, programados por agencias de viajes del exterior y del país.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Organizar y promover planes turísticos para ser operados por ellas mismas, sus sucursales y agencias si las tuviere, de acuerdo con la ubicación de cada una de ellas dentro del territorio nacional.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Prestar los servicios de transporte turístico de acuerdo con las disposiciones que reglamentan la materia.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Brindar equipo especializado tal como implementos de caza y pesca, buceo y otros elementos deportivos, cuando la actividad lo requiera.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Prestar el servicio de guianza con personas debidamente inscritas en el Registro Nacional de Turismo.</span></li></ul>
           p(numero="3" titulo="Agencias de viajes mayoristas") Son las empresas comerciales, debidamente constituidas por personas naturales o jurídicas, que se dediquen profesionalmente a programar y organizar planes turísticos.<br/><span style="margin-left: 5px;">Funciones:</span><br/><ul style="margin-left: 10px;"><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Programar y organizar planes turísticos nacionales e internacionales, para ser ejecutados o por agencias de viajes operadoras y vendidos por las agencias de viajes y turismo.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Programar y organizar planes turísticos para ser operados fuera del territorio nacional por sus corresponsales o agentes y para ser vendidos por las agencias de viajes y turismo.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Promover y vender planes turísticos hacia Colombia, para ser ejecutados por las agencias operadoras establecidas en el país.</span></li><li><span style="color: #12263F;"><i class="fas fa-circle fa-xs" style="margin-right: 5px;"></i>Reservar y contratar alojamiento y demás servicios turísticos, para ser vendidos por las agencias de viajes y turismo.</span></li></ul>
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/imagen16.jpg")
@@ -1292,14 +1289,14 @@
       .col-auto.fondomundo
         h4.px-5.pt-5.ms-5 <i>Online Travel Agency</i> - OTA
     
-    p.mb-5(data-aos="fade-right") Las OTA por su definición en inglés (<i>Online Travel Agency</i>) o Agencias de Viajes <i>Online</i>, son sitios <i>web</i> enfocados a vender servicios turísticos ofrecidos por sus socios o proveedores como lo son aerolíneas, empresas <i>rent car</i> o de alquiler de vehículos, hoteles, hostales, organizadores de eventos y más; quienes le pagan un porcentaje de comisión a las OTA al momento de recibir una reserva por parte del cliente a través de su portal.
+    p.mb-5(data-aos="fade-right") Las OTA por su definición en inglés (<i>Online Travel Agency</i>) o Agencias de Viajes <i>Online</i>, son sitios web enfocados a vender servicios turísticos ofrecidos por sus socios o proveedores como lo son aerolíneas, empresas <i>rent car</i> o de alquiler de vehículos, hoteles, hostales, organizadores de eventos y más; quienes le pagan un porcentaje de comisión a las OTA al momento de recibir una reserva por parte del cliente a través de su portal.
 
     .row.justify-content-center.alineacion.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img.altura(src="@/assets/curso/tema1/imagen17.jpg")
       .col-lg-6(data-aos="fade-left")
         .cajon.color-primario.fondo1.p-4.mb-4
-          p.mb-0 De una manera más simple, se puede decir que un OTA es un sitio <i>web</i> donde los interesados en viajar pueden buscar y comparar los precios de los servicios turísticos que desean adquirir, para posteriormente realizar su reserva sin la necesidad de tener un agente de viajes de manera presencial. Así pues, estos portales cuentan con grandes fortalezas ya que pueden tener un alcance mayor y en menor tiempo que una agencia tradicional o física; por ello, las pequeñas empresas del sector o incluso quienes ofrecen sus servicios de manera independiente, pueden beneficiarse de las OTA por la visibilidad y alcance en línea que ésta les ofrece.
+          p.mb-0 De una manera más simple, se puede decir que un OTA es un sitio web donde los interesados en viajar pueden buscar y comparar los precios de los servicios turísticos que desean adquirir, para posteriormente realizar su reserva sin la necesidad de tener un agente de viajes de manera presencial. Así pues, estos portales cuentan con grandes fortalezas, ya que pueden tener un alcance mayor y en menor tiempo que una agencia tradicional o física; por ello, las pequeñas empresas del sector o incluso quienes ofrecen sus servicios de manera independiente, pueden beneficiarse de las OTA por la visibilidad y alcance en línea que esta les ofrece.
         p.fondo26 Internet les permite reunir la oferta mundial de viajes en un solo lugar, para que los turistas reserven sus propios viajes <i>online</i>. Son una herramienta de autoservicio que han cambiado la manera en que se buscan y reservan los viajes, porque en vez de tener que recurrir a una agencia en físico, los viajeros tienen mayor facilidad para planear y reservar vuelos, alojamiento y visitas guiadas por su cuenta.
     
     .row.justify-content-center.mb-5
@@ -1310,12 +1307,12 @@
             h4.mb-0 La primer OTA nació en 1996 en Estados Unidos y es la conocida Expedia; que creó un modelo de negocios revolucionario para la época y al cabo de tres años se estableció como una de las diez agencias de viajes con más ventas en aquel país.
             i.fas.fa-quote-right
     
-    p.mb-5(data-aos="fade-left") Este tipo de sitios se basan en comentarios y críticas sobre los servicios que ofrecen puntualmente, por ejemplo: <i>TripAdvisor</i> muestra las opiniones sobre destinos turísticos, hoteles y restaurantes; Despegar.com muestra vuelos y hoteles; y <i>Airbnb</i> ofrece información sobre el alquiler de casas o apartamentos a precios realmente económicos.
+    p.mb-5(data-aos="fade-left") Este tipo de sitios se basan en comentarios y críticas sobre los servicios que ofrecen puntualmente, por ejemplo: TripAdvisor muestra las opiniones sobre destinos turísticos, hoteles y restaurantes; Despegar.com muestra vuelos y hoteles; y Airbnb ofrece información sobre el alquiler de casas o apartamentos a precios realmente económicos.
     
     .row.justify-content-center.alineacion.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p La mayoría de las OTA funcionan como una red social que se nutre a partir de los comentarios, fotografías y opiniones de los turistas que desean compartir su opinión al respecto y las imágenes de lo vivido durante su recorrido en el destino elegido. Lo diferencial en estos tipos de agencias de viaje, es que los turistas son quienes realizan la búsqueda de los servicios que desean contratar y tienen el poder de comparar y seleccionar el que más les convenga según su presupuesto; por ello, en este tipo de OTA el principal canal de reservas y/o compras es el internet y no un empleado. 
-        p No es entonces un secreto que el trabajo de las OTA ha cobrado gran importancia a nivel mundial ya que hoy por hoy son la primera parada de los cibernautas a la hora de planear sus viajes. Estas <i>webs</i> brindan valor en cada fase del proceso de compra:  incorporan la necesidad de los usuarios, realizan la búsqueda de información, presentan alternativas, influyen en la decisión de compra y también buscan conocer el desenlace posterior a ésta. Su importancia tiene hoy un gran peso ya que los turistas rescatan el acceso global que se les brinda, sin importar la ubicación donde se encuentren; la transparencia en los precios; la competitividad y la confianza que obtienen al realizar su compra. Se invita a consultar el siguiente recurso, en donde se podrá conocer un poco más sobre las OTA a nivel mundial:
+        p No es entonces un secreto que el trabajo de las OTA ha cobrado gran importancia a nivel mundial, ya que hoy por hoy son la primera parada de los cibernautas a la hora de planear sus viajes. Estas <i>webs</i> brindan valor en cada fase del proceso de compra:  incorporan la necesidad de los usuarios, realizan la búsqueda de información, presentan alternativas, influyen en la decisión de compra y también buscan conocer el desenlace posterior a esta. Su importancia tiene hoy un gran peso, ya que los turistas rescatan el acceso global que se les brinda, sin importar la ubicación donde se encuentren; la transparencia en los precios; la competitividad y la confianza que obtienen al realizar su compra. Se invita a consultar el siguiente recurso, en donde se podrá conocer un poco más sobre las OTA a nivel mundial:
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img.altura(src="@/assets/curso/tema1/imagen18.jpg")
 
@@ -1330,35 +1327,35 @@
                 figure
                   img(src='@/assets/curso/tema1/agoda.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p Fundada en el año 1998 y adquirida por <i>Priceline Group</i> (ahora conocido como <i>Booking Holdings</i>) en 2007. El sitio <i>web</i> de se encuentra disponible en 38 idiomas y su fuerte son los anuncios de todo tipo de propiedades. Es una de las mayores agencias de viaje <i>online</i> en el mercado asiático, pero continúa expandiéndose en los mercados de Estados Unidos, la India y Europa.
+                p Fundada en el año 1998 y adquirida por <i>Priceline Group</i> (ahora conocido como <i>Booking Holdings</i>) en 2007. El sitio web de se encuentra disponible en 38 idiomas y su fuerte son los anuncios de todo tipo de propiedades. Es una de las mayores agencias de viaje <i>online</i> en el mercado asiático, pero continúa expandiéndose en los mercados de Estados Unidos, la India y Europa.
                 p.mb-0 Es ideal para: todas las categorías de alojamiento.
             .row.justify-content-center
               .col-lg-3.col-6.mb-4
                 figure
                   img(src='@/assets/curso/tema1/airbnb.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p Se conoce por brindar acceso a alojamientos únicos en el mundo entero. La mayoría de propiedades que usan <i>Airbnb</i> no hacen parte de los principales segmentos de hotelería, sino que están más orientadas a la cultura y vida local.
+                p Se conoce por brindar acceso a alojamientos únicos en el mundo entero. La mayoría de propiedades que usan Airbnb no hacen parte de los principales segmentos de hotelería, sino que están más orientadas a la cultura y vida local.
                 p.mb-0 Ideal para: alquileres vacacionales, <i>bed and breakfasts</i>, alojamientos compartidos, hoteles <i>boutique</i>, hostales y propiedades independiente.
             .row.justify-content-center
               .col-lg-4.col-8.mb-4
                 figure
                   img(src='@/assets/curso/tema1/booking.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p Es uno de los sitios <i>web</i> de viajes más grandes y conocidos en el mundo entero. Su sitio <i>web</i> y aplicaciones móviles son accesibles en 43 idiomas y reúnen más de 50 millones de comentarios de huéspedes verificados en más de 200 países. Sus tasas de comisión son generalmente más bajas que las de otras OTA.
+                p Es uno de los sitios web de viajes más grandes y conocidos en el mundo entero. Su sitio web y aplicaciones móviles son accesibles en 43 idiomas y reúnen más de 50 millones de comentarios de huéspedes verificados en más de 200 países. Sus tasas de comisión son generalmente más bajas que las de otras OTA.
                 p.mb-0 Ideal para: todo tipo de alojamientos, incluyendo <i>resorts</i>, villas, cabañas, hoteles, apartamentos, hostales, alquileres vacacionales, B&B y más.
             .row.justify-content-center
               .col-lg-3.col-6.mb-4
                 figure
                   img(src='@/assets/curso/tema1/expedia.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p Incluye 200 sitios <i>web</i> de reservas de viajes en 75 países y en 35 idiomas. Su sitio <i>web</i> recibe más de 600 millones de visitas por mes. Incluye búsquedas para todo tipo de alojamientos y vuelos, alquiler de automóviles, cruceros y paquetes promocionales. Al habilitar la conexión a <i>Expedia</i>, las propiedades se anuncian en <i>Hotels.com</i>, <i>Wotif</i> y muchos otros canales.
+                p Incluye 200 sitios web de reservas de viajes en 75 países y en 35 idiomas. Su sitio web recibe más de 600 millones de visitas por mes. Incluye búsquedas para todo tipo de alojamientos y vuelos, alquiler de automóviles, cruceros y paquetes promocionales. Al habilitar la conexión a Expedia, las propiedades se anuncian en Hotels.com, <i>Wotif</i> y muchos otros canales.
                 p.mb-0 Ideal para: alojamientos de toda clase y tamaño en el mundo entero.
             .row.justify-content-center
               .col-lg-5.col-10.mb-4
                 figure
                   img(src='@/assets/curso/tema1/hotel.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p Es la mayor OTA para alojamientos de hostales en el mundo entero. Cuenta con más de 12 millones de comentarios de usuarios. Su inventario incluye hoteles, B&B y demás alojamientos de distintos presupuestos. Su aplicación y sitio <i>web</i> están en 20 idiomas distintos.
+                p Es la mayor OTA para alojamientos de hostales en el mundo entero. Cuenta con más de 12 millones de comentarios de usuarios. Su inventario incluye hoteles, B&B y demás alojamientos de distintos presupuestos. Su aplicación y sitio web están en 20 idiomas distintos.
                 p.mb-0 Ideal para: hostales, hoteles, <i>bed and breakfast</i>, casas de huéspedes, apartamentos y zonas de <i>camping</i>.
             .row.justify-content-center
               .col-lg-5.col-10.mb-4
@@ -1389,18 +1386,18 @@
     .row.justify-content-center.mb-5
       .col-xl-5.col-lg-7.mb-xl-0.mb-4(data-aos="fade-left")
         .cajon.puntacajon.fondo17.sombracajon.p-4.mb-4
-          p.mb-0 Los metabuscadores son herramientas de búsqueda avanzada que sirven para consultar información y poder obtener de manera rápida los datos recopilados de diferentes fuentes. En turismo, estos metabuscadores hacen uso de la información de otros motores de búsqueda globales como <i>Google</i>, páginas <i>web</i> de hoteles e incluso los mismos sitios <i>web</i> de las OTA, para agrupar y presentarle al cibernauta los precios de muchos hoteles de un solo destino, de manera actualizada y práctica para que el turista compare las tarifas y elija entre las diferentes opciones.
-        p.mb-0 Los resultados que se pueden hallar en los metabuscadores se filtran por productos o servicios buscados por el usuario; por ello, este proceso se convierte en algo más sencillo y rápido donde en un solo portal <i>web</i>, se encuentran las opciones de varios establecimientos. Así pues, este tipo de herramientas permiten acceder a unos datos más completos con una sola búsqueda, impidiendo reprocesos y desgaste en el tiempo del viajero.  
+          p.mb-0 Los metabuscadores son herramientas de búsqueda avanzada que sirven para consultar información y poder obtener de manera rápida los datos recopilados de diferentes fuentes. En turismo, estos metabuscadores hacen uso de la información de otros motores de búsqueda globales como Google, páginas web de hoteles e incluso los mismos sitios web de las OTA, para agrupar y presentarle al cibernauta los precios de muchos hoteles de un solo destino, de manera actualizada y práctica para que el turista compare las tarifas y elija entre las diferentes opciones.
+        p.mb-0 Los resultados que se pueden hallar en los metabuscadores se filtran por productos o servicios buscados por el usuario; por ello, este proceso se convierte en algo más sencillo y rápido, donde en un solo portal web, se encuentran las opciones de varios establecimientos. Así pues, este tipo de herramientas permiten acceder a unos datos más completos con una sola búsqueda, impidiendo reprocesos y desgaste en el tiempo del viajero.  
       .col-xl-7.col-lg-10(data-aos="fade-right")
-        p En turismo los dos metabuscadores más usuales son <i>Tripadvisor</i> o <i>Kayak</i>. En la figura 7 se puede ver un ejemplo de búsqueda:
+        p En turismo los dos metabuscadores más usuales son Tripadvisor o Kayak. En la figura 7 se puede ver un ejemplo de búsqueda:
         .titulo-sexto.color-acento-contenido
           h5 Figura 7.
-          span Ejemplo de cómo funcionan el metabuscador <i>Tripadvisor</i>    
+          span Ejemplo de cómo funcionan el metabuscador Tripadvisor    
         img(src='@/assets/curso/tema1/imagen19.jpg', alt="Imagen que muestra las opciones que salen en la pantalla al dar la opción en ese buscador.")
       
     .row.mb-5
       .col-12.fondonaranja.py-4.px-5(data-aos="fade-left")
-        p.mb-0 Como se observa, al ingresar fecha de llegada y de salida y el tipo de habitación, el metabuscador <i>Tripadvisor</i> encuentra diferentes opciones de OTA como <i>Booking</i>, <i>Expedia</i> y Hoteles.com con sus respectivos precios, para que el usuario elija el que más se acomoda a su bolsillo y a su gusto. Acá es importante destacar que el metabuscador busca la información, pero no vende; sin embargo, agiliza el trabajo del usuario ya que éste puede ir directamente al sitio de la OTA a comprar y no tener que detenerse haciendo dos, tres o más búsquedas para comparar precios.   
+        p.mb-0 Como se observa, al ingresar fecha de llegada y de salida y el tipo de habitación, el metabuscador Tripadvisor encuentra diferentes opciones de OTA como Booking, Expedia y Hoteles.com con sus respectivos precios, para que el usuario elija el que más se acomoda a su bolsillo y a su gusto. Acá es importante destacar que el metabuscador busca la información, pero no vende; sin embargo, agiliza el trabajo del usuario ya que éste puede ir directamente al sitio de la OTA a comprar y no tener que detenerse haciendo dos, tres o más búsquedas para comparar precios.   
 
     p.mb-5(data-aos="fade-left") Existen diferencias entre un metabuscador y una OTA, tal como se presenta a continuación:
     
@@ -1410,17 +1407,13 @@
     
     TabsA.color-acento-botones.mb-5(data-aos="zoom-in")
       .tarjeta.fondo27.p-4(titulo="Reserva")
-        h4 Reserva
-        p.mb-0 Una OTA efectúa la reserva desde su propia web; un metabuscador no tiene medios técnicos para confirmar o gestionar reservas de ningún tipo. Lo que hacen, en cambio, es llevar tráfico a los sitios que sí que pueden <i>web</i> de la OTA o de la empresa proveedora. 
+        p.mb-0 Una OTA efectúa la reserva desde su propia web; un metabuscador no tiene medios técnicos para confirmar o gestionar reservas de ningún tipo. Lo que hacen, en cambio, es llevar tráfico a los sitios que sí que pueden web de la OTA o de la empresa proveedora. 
       .tarjeta.fondo27.p-4(titulo="<i>Marketing</i>")
-        h4 <i>Marketing</i>
-        p.mb-0 Las OTA's  son muy necesarias para la distribución de cualquier hotel bien sea grande o pequeño, ya que les ayudan a ampliar y alcanzar nuevos mercados gracias a la inversión cuantiosa que realizan en <i>marketing</i>. <br/>Una OTA vende las habitaciones de los hoteles mostrando sus características, su valor económico y las imágenes llamativas para completar la reserva desde dicho portal <i>web</i>.  
+        p.mb-0 Las OTA's son muy necesarias para la distribución de cualquier hotel, bien sea grande o pequeño, ya que les ayudan a ampliar y alcanzar nuevos mercados gracias a la inversión cuantiosa que realizan en <i>marketing</i>. <br/>Una OTA vende las habitaciones de los hoteles mostrando sus características, su valor económico y las imágenes llamativas para completar la reserva desde dicho portal web.  
       .tarjeta.fondo27.p-4(titulo="Factor económico")
-        h4 Factor económico
-        p.mb-0 Un metabuscador agrupa los valores económicos de los servicios ofrecidos por las OTA's y se los muestra a los turistas como una lista; de esta forma el proceso de elección se vuelve más ágil y fácil ya que se pueden contrastar los precios a fin de elegir la habitación a reservar, por ejemplo. La diferencia más importante es que los metabuscadores no venden su propio inventario.
+        p.mb-0 Un metabuscador agrupa los valores económicos de los servicios ofrecidos por las OTA's y se los muestra a los turistas como una lista; de esta forma el proceso de elección se vuelve más ágil y fácil, ya que se pueden contrastar los precios a fin de elegir la habitación a reservar, por ejemplo. La diferencia más importante es que los metabuscadores no venden su propio inventario.
       .tarjeta.fondo27.p-4(titulo="Pago de comisión")
-        h4 Pago de comisión
-        p.mb-0 Cuando la OTA realiza una venta desde su propia página <i>web</i>, el proveedor a quien le entró esa venta (por ejemplo, un hotel), debe pagar un porcentaje de comisión por utilizar el canal de la agencia de viajes virtual. Acá se puede ver otra diferencia con el metabuscador: los pequeños hoteles pueden aumentar sus ventas directas ya que el usuario solo encontrará su valor, pero no podrá comprar; por tanto, se tendrá que dirigir directamente a la página de la empresa a la que le desea contratar el servicio.
+        p.mb-0 Cuando la OTA realiza una venta desde su propia página web, el proveedor a quien le entró esa venta (por ejemplo, un hotel), debe pagar un porcentaje de comisión por utilizar el canal de la agencia de viajes virtual. Acá se puede ver otra diferencia con el metabuscador: los pequeños hoteles pueden aumentar sus ventas directas, ya que el usuario solo encontrará su valor, pero no podrá comprar; por tanto, se tendrá que dirigir directamente a la página de la empresa a la que le desea contratar el servicio.
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade-left")
@@ -1435,19 +1428,19 @@
         ul.lista-ul
           li.otrocolorcheck(data-aos="fade-right")
             i.fas.fa-check
-            p El metabuscador es mucho más rápido ya que le permite al cliente buscar a la vez distintas <i>web</i>, posibilitando comparar precios en un solo vistazo, ahorrando tiempo y complejidad.
+            p El metabuscador es mucho más rápido, ya que le permite al cliente buscar a la vez distintas web, posibilitando comparar precios en un solo vistazo, ahorrando tiempo y complejidad.
           li.otrocolorcheck(data-aos="fade-right")
             i.fas.fa-check
             p Un metabuscador permite a los hoteles pequeños competir en igualdad de condiciones con hoteles y cadenas más grandes.
           li.otrocolorcheck(data-aos="fade-right") 
             i.fas.fa-check
-            p Aumenta las reservas directas ya que al mostrarles la comparación entre los precios de las OTA y el real del hotel; existen más probabilidades de que el turista decida hacer la reserva directamente con el establecimiento de alojamiento.
+            p Aumenta las reservas directas, ya que al mostrarles la comparación entre los precios de las OTA y el real del hotel; existen más probabilidades de que el turista decida hacer la reserva directamente con el establecimiento de alojamiento.
           li.otrocolorcheck(data-aos="fade-right")
             i.fas.fa-check
             p Los metabuscadores funcionan con un sistema PPC (Pago Por Clic) que suele ser más barato que un sistema basado en comisiones como el de las OTA.
           li.otrocolorcheck(data-aos="fade-right")
             i.fas.fa-check
-            p Un metabuscador ofrece un sentimiento de confianza y seguridad al turista ya que le muestra los comentarios a otras personas que han contratado el mismo servicio turístico anteriormente.   
+            p Un metabuscador ofrece un sentimiento de confianza y seguridad al turista, ya que le muestra los comentarios a otras personas que han contratado el mismo servicio turístico anteriormente.   
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen20.jpg', alt="Imagen decorativa")
     
@@ -1455,16 +1448,16 @@
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 8.
-      span Principales Metabuscadores en turismo
+      span Principales metabuscadores en turismo
     
     .row.justify-content-center.mb-5(alt="Describe los principales metabuscadores en turismo y que se genera su información posterior a la imagen.")
-      .col-lg-3.col-md-6.col-10.mb-4(data-aos="fade-left")
+      .col-lg-3.col-md-6.col-sm-8.col-10.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/triadvisor.svg', alt="Tripadvisor: es el más conocido, porque anuncia a empresas turísticas de todo tipo: alojamientos, actividades, restaurantes, etc. Se trata de la plataforma turística más grande del mundo, ayudando a más de 400 millones se viajeros al mes. Estos disponen de más de 800 millones de reseñas y comentarios de más de 8 millones de restaurantes, alojamientos, experiencias, etc")
-      .col-lg-3.col-md-6.col-10.mb-4(data-aos="flip-up")
+      .col-lg-3.col-md-6.col-sm-8.col-10.mb-4(data-aos="flip-up")
         img(src='@/assets/curso/tema1/trivago.svg', alt="Trivago: es uno de los metabuscadores hoteleros por excelencia en España.")
-      .col-lg-3.col-md-6.col-10.mb-4(data-aos="flip-up")
+      .col-lg-3.col-md-6.col-sm-8.col-10.mb-4(data-aos="flip-up")
         img(src='@/assets/curso/tema1/kayak.svg', alt="Kayak: Busca en cientos de webs de viajes a la vez y muestra a los viajeros la información que necesitan para elegir el vuelo, hotel, carro de alquiler o paquete de viaje perfecto.")
-      .col-lg-3.col-md-6.col-10.mb-4(data-aos="fade-right")
+      .col-lg-3.col-md-6.col-sm-8.col-10.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema1/google.svg', alt="Google Hotel Ads: es una plataforma online, como una evolución de Google Hotel Finder, especialmente para la distribución hotelera que dirige la audiencia en busca por alojamiento directamente para las reservas o ventas directas.")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
@@ -1473,14 +1466,14 @@
         h4.px-5.pt-5.ms-5 <i>Customer Relationship Management y Enterprise Resource Planning</i>
     
     p(data-aos="fade-left") Estas dos herramientas permiten la gestión del servicio y la relación que ejerce con el cliente o los clientes interesados, así como la fidelización de estos, posibilitando perdurabilidad en el tiempo, a continuación, se explica cada una de estas:
-    p.subrayar.mb-5(data-aos="fade-left") <i>Customer Relationship Management.</i>
+    p.subrayar.mb-5(data-aos="fade-left") <i>Customer Relationship Management</i>
     p.mb-5(data-aos="fade-left") Este término se refiere a una herramienta diseñada para gestionar las estrategias y prácticas de negocio que están dirigidas a la relación con el cliente y prospectos. Son <i>software</i> especializados de gran ayuda para los equipos de ventas y <i>marketing</i>. Observar el siguiente video para aprender más al respecto. 
     
     figure.mb-5(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/PF_yA02FGIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
-    p.mb-5(data-aos="fade-left") Anteriormente las compañías usaban métodos tradicionales para poder gestionar sus relaciones con clientes; era tradicional encontrar <i>post it</i>, cuadernos, agendas físicas, hojas de cálculo, etc., con la información de sus usuarios y con las tareas a desarrollar para agendar reuniones con ellos, llamarlos e incluso cobrarles. Hoy día, esto se hace de manera mucho más eficiente y tecnológica con la ayuda de un CRM. Hay diferentes recursos en el mercado, sin embargo, la decisión de compra dependerá de los requerimientos de cada empresa. Estas diferencias pueden establecerse como tipos de CRM, tal como se muestra en la siguiente figura 9:
+    p.mb-5(data-aos="fade-left") Anteriormente, las compañías usaban métodos tradicionales para poder gestionar sus relaciones con clientes; era tradicional encontrar <i>post it</i>, cuadernos, agendas físicas, hojas de cálculo, etc., con la información de sus usuarios y con las tareas a desarrollar para agendar reuniones con ellos, llamarlos e incluso cobrarles. Hoy día, esto se hace de manera mucho más eficiente y tecnológica con la ayuda de un CRM. Hay diferentes recursos en el mercado, sin embargo, la decisión de compra dependerá de los requerimientos de cada empresa. Estas diferencias pueden establecerse como tipos de CRM, tal como se muestra en la siguiente figura 9:
     
     .titulo-sexto.color-acento-contenido(data-aos="fade-left")
       h5 Figura 9.
@@ -1495,13 +1488,13 @@
         img(src='@/assets/curso/tema1/crm3.svg', alt="Tipo colaborativo<br>Establecen una comunicación multicanal entre todos los departamentos de la empresa, así como interactuar con los clientes. Mejoran la relación con los clientes de la organización.<br>Diferentes departamentos están interconectados con este sistema de CMR. Por ejemplo, se pueden recopilar puntos clave de las llamadas Atención al Cliente para mejorar las estrategias de marketing, o implementar una nueva acción que mejore el proceso de ventas.")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
-    p.subrayar.mb-5(data-aos="fade-right") <i>Enterprise Resoure Planning - ERP.</i>
+    p.subrayar.mb-5(data-aos="fade-right") <i>Enterprise Resoure Planning - ERP</i>
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-        p La globalización y los cambios constantes del entorno y los mercados han conllevado a que las empresas tomen consciencia sobre la digitalización de sus procesos estratégicos. Este panorama no ha sido ajeno al sector turístico, por el contrario, hoy por hoy los prestadores de servicios turísticos han ido implementado herramientas digitales con el objetivo de ser más eficientes y competitivos, prestando un mejor servicio a sus clientes.
+        p La globalización y los cambios constantes del entorno y los mercados han conllevado a que las empresas tomen consciencia sobre la digitalización de sus procesos estratégicos. Este panorama no ha sido ajeno al sector turístico, por el contrario, hoy por hoy los prestadores de servicios turísticos han ido implementando herramientas digitales con el objetivo de ser más eficientes y competitivos, prestando un mejor servicio a sus clientes.
         p El término ERP se refiere a <i>Enterprise Resource Planning</i>, que significa “sistema de planificación de recursos empresariales”. Es un <i>software</i> integrado por módulos que administra diferentes procesos internos de la compañía como las compras, la contabilidad, la gerencia de proyectos, la gestión de riesgos y los procedimientos de la cadena de suministros. 
-        p El objetivo primordial de un ERP es agrupar la información que proviene de las distintas áreas de la empresa, evitando que ésta se duplique y generando así, mayor fluidez de la información y menos reprocesos para quienes la gestionan.
+        p El objetivo primordial de un ERP es agrupar la información que proviene de las distintas áreas de la empresa, evitando que esta se duplique y generando así, mayor fluidez de la información y menos reprocesos para quienes la gestionan.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen21.jpg', alt="Imagen decorativa")
     
@@ -1579,7 +1572,7 @@
             img.dimensiones(src='@/assets/curso/tema1/pesos.svg', alt="Imagen decorativa")
         tr(data-aos="fade-right")
           th.bordetabla.alinearArriba
-            p.text-center.size15px Fechas y horarios para llevar cabo cada una de las actividades que incluye el paquete turístico.
+            p.text-center.size15px Fechas y horarios para llevar a cabo cada una de las actividades que incluye el paquete turístico.
           td.alinearArriba.bordetabla
             p.text-center.size15px Lugares de salida y regreso.
           td.alinearArriba.bordetabla
@@ -1614,7 +1607,7 @@
           .col-lg-4.col-6
             img(src='@/assets/curso/tema1/slider2-3.png', alt="Imagen decorativa")
         h3.text-dark Circuitos terrestres
-        p.text-dark.mb-0 Generalmente son <i>tours</i> en autobús para viajes dentro del territorio nacional o países limítrofes.
+        p.text-dark.mb-0 Generalmente, son <i>tours</i> en autobús para viajes dentro del territorio nacional o países limítrofes.
       .tarjeta.fondo19.p-4.h-100
         .row.justify-content-left.mb-3
           .col-lg-4.col-6
@@ -1717,11 +1710,22 @@
           .col-lg-5.order-lg-1.order-2
             h4 Cálculo del presupuesto del viaje
             p Algunas cuestiones a tener en cuenta a la hora de cotizar el viaje serán:
-            p Que sea competitivo.
-            p Precios netos por día y persona (hay que incluir la comisión del proveedor).
-            p Incluir los impuestos correspondientes a cada tipo de servicio.
-            p Tener en cuenta los cambios en las cotizaciones de divisas.
-            p Tener en cuenta la temporada.
+            ul.lista-ul--color
+              li(style="margin-bottom: 2px")
+                i.fas.fa-check-circle(style="color: #0082FF;")
+                | Que sea competitivo.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-check-circle(style="color: #0082FF;")
+                | Precios netos por día y persona (hay que incluir la comisión del proveedor).
+              li(style="margin-bottom: 2px")
+                i.fas.fa-check-circle(style="color: #0082FF;")
+                | Incluir los impuestos correspondientes a cada tipo de servicio.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-check-circle(style="color: #0082FF;")
+                | Tener en cuenta los cambios en las cotizaciones de divisas.
+              li(style="margin-bottom: 2px")
+                i.fas.fa-check-circle(style="color: #0082FF;")
+                | Tener en cuenta la temporada.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider24.png', alt="Imagen decorativa")
@@ -1778,7 +1782,7 @@
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen24.jpg', alt="Imagen decorativa")
 
-    p(data-aos="fade-right") Vender de manera <i>online</i> se convirtió en una necesidad para las empresas que desean hacer crecer sus negocios. En turismo, el escenario virtual es un buen lugar para ofrecer los paquetes turísticos; sin embargo, se debe tener una buena estrategia para lograr la venta y poder llegar al nicho de mercado indicado. En este sentido, el mercadeo digital, cumple una función muy importante ya que brinda herramientas para incrementar las ventas de una manera personalizada logrando que el usuario conecte con la experiencia que ofrece la agencia de viajes. 
+    p(data-aos="fade-right") Vender de manera <i>online</i> se convirtió en una necesidad para las empresas que desean hacer crecer sus negocios. En turismo, el escenario virtual es un buen lugar para ofrecer los paquetes turísticos; sin embargo, se debe tener una buena estrategia para lograr la venta y poder llegar al nicho de mercado indicado. En este sentido, el mercadeo digital, cumple una función muy importante, ya que brinda herramientas para incrementar las ventas de una manera personalizada, logrando que el usuario conecte con la experiencia que ofrece la agencia de viajes. 
     p.mb-5(data-aos="fade-right") A continuación, se va pueden ver diferentes consejos para poder dar mayor fuerza a la promoción <i>online</i> de los paquetes turísticos (ver figura 12):
     
     .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
@@ -1792,12 +1796,12 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-circle
-                p.mb-0 El entorno <i>web</i> de la agencia de viajes requiere una optimización SEO del contenido, capaz de situar la página en las primeras posiciones. Cuanto más específico sea el contenido más efectivo y fácil de posicionar.
+                p.mb-0 El entorno web de la agencia de viajes requiere una optimización SEO del contenido, capaz de situar la página en las primeras posiciones. Cuanto más específico sea el contenido más efectivo y fácil de posicionar.
           .col-lg-4.fondo32.pt-4.px-4.mb-4
             ul.lista-ul--color
               li 
                 i.fas.fa-circle
-                p.mb-0 Con el fin de mejorar la relevancia del contenido del sitio <i>web</i> para los usuarios, es bueno incluir palabras clave en el texto relacionadas con las principales cualidades del paquete turístico.
+                p.mb-0 Con el fin de mejorar la relevancia del contenido del sitio web para los usuarios, es bueno incluir palabras clave en el texto relacionadas con las principales cualidades del paquete turístico.
         .row.justify-content-center.mb-5(data-aos="fade-right")
           .col-lg-3.fondo33.pt-4.px-4.mx-5.mb-4
             ul.lista-ul--color
@@ -1827,13 +1831,13 @@
         :style="{'background-image': `url(${require('@/assets/curso/tema1/imagen25.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.py-5.px-4(data-aos="fade-left")
-        h4.mb-3 Ruta Turística
+        h4.mb-3 Ruta turística
         br
         br
         p.mb-0 Es el recorrido que se realiza en un territorio determinado bajo una propuesta estandarizada de lugares y actividades, con el fin de admirar los espacios naturales y disfrutar el legado cultural a partir de la interacción entre grupos sociales que habitan el mismo territorio. Cuentan con un itinerario previo que, a su vez, facilita la orientación del turista en el destino.
     
     p(data-aos="fade-right") Dentro de una ruta turística se podrán encontrar señales y carteles especiales que permiten resaltar los atractivos turísticos del lugar, con la intención de facilitar el recorrido del turista. Estos carteles, por tanto, no solo definen la ubicación, sino también la información aportante del atractivo a visitar.
-    p.mb-5(data-aos="fade-right") En los últimos años, las rutas turísticas han tomado bastante importancia al momento de viajar ya que ayudan a evitar la saturación de ciertos destinos, responden a las nuevas tendencias del mercado, y les brindan a los turistas experiencias innovadoras al tener contacto con diferentes comunidades autóctonas y sus manifestaciones culturales.
+    p.mb-5(data-aos="fade-right") En los últimos años, las rutas turísticas han tomado bastante importancia al momento de viajar, ya que ayudan a evitar la saturación de ciertos destinos, responden a las nuevas tendencias del mercado, y les brindan a los turistas experiencias innovadoras al tener contacto con diferentes comunidades autóctonas y sus manifestaciones culturales.
 
     .row.justify-content-around.align-items-center.mb-5
       .col-xl-10(data-aos="flip-up")
@@ -1917,7 +1921,7 @@
           .col-lg-5.order-lg-1.order-2
             h4 Hostal
             p Un concepto más <i>low-cost</i>, con habitaciones individuales y compartidas. 
-            p En muchos casos tienen los servicios comunes como la cocina y los baños. son reconocidas hasta con 3 estrellas.
+            p En muchos casos tienen los servicios comunes como la cocina y los baños. Son reconocidas hasta con 3 estrellas.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/hostal.png', alt="Imagen decorativa")
@@ -1939,7 +1943,7 @@
           .col-lg-5.order-lg-1.order-2
             h4 <i>Camping</i>
             p Una alternativa a los clásicos y muy popular para quienes quieren escapar de lo cotidiano, se asocian con tiendas de campaña o carpas para pasar la noche. Se usan mucho en los safaris, expediciones, grupos de escuelas y universidades. En definitiva, para aquellos que quieren disfrutar de la naturaleza.
-            p Aunque no está estipulado en la norma de turismo; actualmente existe un sub-titpo de <i>camping</i> pero con más <i>glamour</i> y estilo y es el llamado: <i>Glamping</i>.
+            p Aunque no está estipulado en la norma de turismo; actualmente existe un sub-tipo de <i>camping,</i> pero con más <i>glamour</i> y estilo y es el llamado: <i>Glamping</i>.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/camping.png', alt="Imagen decorativa")
@@ -1962,14 +1966,15 @@
             h4 <i>Resort</i>
             p Hotel orientado hacia la recreación.
             p Cuentan con varios restaurantes, piscinas. 
-            p En ocasiones se llega a percibir como destinos “todo incluido” 
-            p Cobra una sola tarifa Tienden a estar en categoría de calidad o lujo.
+            p En ocasiones se llega a percibir como destinos “todo incluido”.
+            p Cobra una sola tarifa. 
+            p.mb-0 Tienden a estar en categoría de calidad o lujo.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/resort.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hotel Casino
+            h4 Hotel casino
             p Hotel que tiene juegos de azar.
             p En algunos lugares (especialmente en Europa) los hoteles casinos son sofisticados y elegantes.
             p En otros lugares (especialmente en Las Vegas) son <i>resort</i> extravagantes.
@@ -1987,7 +1992,7 @@
         h3.text-dark 1 Estrella
         p.text-dark Alojamiento limpio, básico, puede o no tener un baño privado, teléfono en la habitación, televisión o servicios. 
         p Un hotel de una estrella es ideal para el viajero con poco presupuesto, donde el precio es la principal preocupación.
-        p Deberán cumplir el 100% de los requisitos definidos en la Norma NTSH006, 178 puntos y los requisitos legales vigentes.
+        p Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 178 puntos y los requisitos legales vigentes.
       .tarjeta.fondo19.p-4.h-100
         .row.justify-content-start.mb-3
           .col-xxl-5.col-md-5.col-8
@@ -1995,7 +2000,7 @@
         h3.text-dark 2 Estrellas
         p.text-dark Alojamiento limpio y básico, pueden tener o no un centro de negocios o acceso a internet, pero por lo general sin salas de reuniones, botones, gimnasio o instalaciones recreativas. El restaurante a menudo se limita a servicio de café o un desayuno continental. Las habitaciones ofrecen normalmente baño privado, teléfono, televisión y servicios limitados.
         p Es ideal para viajeros de negocios o exploradores, donde el costo es un factor, pero sí se desean servicios básicos.
-        p Deberán cumplir el 100% de los requisitos definidos en la Norma NTSH006, 181 puntos y los requisitos legales vigentes.
+        p Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 181 puntos y los requisitos legales vigentes.
       .tarjeta.fondo19.p-4.h-100
         .row.justify-content-start.mb-3
           .col-xxl-5.col-md-4.col-8
@@ -2003,21 +2008,21 @@
         h3.text-dark 3 Estrellas
         p.text-dark Mayor énfasis en la comodidad, estilo y servicio personalizado. A menudo tienen un restaurante, gimnasio, una tienda de souvenirs o elementos de higiene personal y botones. Generalmente, hay salas de juntas y / o salas de conferencia y servicios relacionados disponibles. Las habitaciones incluyen más servicios y hay una atención más cuidadosa a la calidad y comodidad.
         p Es ideal para viajeros de negocios o de placer en busca de un poco más que los servicios básicos.
-        p Deberán cumplir el 80% de los requisitos definidos en la Norma NTSH006, rango 208 - 260 puntos y los requisitos legales vigentes.
+        p Deberán cumplir el 80 % de los requisitos definidos en la Norma NTSH006, rango 208 - 260 puntos y los requisitos legales vigentes.
       .tarjeta.fondo19.p-4.h-100
         .row.justify-content-left.mb-3
           .col-xxl-6.col-md-4.col-8
             img(src='@/assets/curso/tema1/star4.png', alt="Imagen decorativa")
         h3.text-dark 4 Estrellas
         p.text-dark Mayor calidad y mayor nivel de confort. Tienen más de un restaurante, bar y servicio a cuartos con horario prolongado. Los servicios disponibles pueden incluir botones, limpieza y servicio de <i>valet parking</i>. Normalmente, cuentan con centro de conferencias y servicios de negocios. Las habitaciones son amplias y por lo general ofrecen un mobiliario elegante, ropa de cama de alta calidad, productos de baño y una amplia gama de servicios como minibar y secadora de pelo.
-        p Deberán cumplir mínimo con el 85% de los requisitos definidos en la Norma NTSH006, rango 283 - 333 puntos y los requisitos legales vigentes.
+        p Deberán cumplir mínimo con el 85 % de los requisitos definidos en la Norma NTSH006, rango 283 - 333 puntos y los requisitos legales vigentes.
       .tarjeta.fondo19.p-4.h-100
         .row.justify-content-start.mb-3
           .col-xxl-6.col-md-5.col-8
             img(src='@/assets/curso/tema1/star5.png', alt="Imagen decorativa")
         h3.text-dark 5 Estrellas
         p.text-dark Muy orientado al servicio y brinda altos estándares de comodidad y calidad. Cuenta con más de un restaurante, a menudo incluyendo una opción de restaurante <i>gourmet</i>, así como un bar o sala de estar y servicio a cuartos las 24 horas. Puede ofrecer canchas de tenis y acceso a campo de golf, así como un <i>spa</i>, un gimnasio moderno. 
-        p Deberán cumplir mínimo con el 95% de los requisitos definidos en la norma NTSH006, Rango 349 - 337 puntos y los requisitos legales vigentes.
+        p Deberán cumplir mínimo con el 95 % de los requisitos definidos en la norma NTSH006, Rango 349 - 337 puntos y los requisitos legales vigentes.
     
     p.mb-5(data-aos="fade-right") Según la explotación comercial, modalidad o temática escogida para llevar a cabo su oferta, los hoteles pueden especializarse en las siguientes:
     
@@ -2029,22 +2034,22 @@
       SlyderA.pt-4.otroslide3(tipo="b")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hoteles <i>Spa</i>
+            h4 Hoteles <i>spa</i>
             p Un hotel <i>spa</i> es un tipo de alojamiento que cuenta entre sus instalaciones con servicios de tratamiento de salud con agua. 
-            p Esto se traduce en hoteles con servicios con piscinas especiales y climatizadas, especiales para el <i>relax</i> en familia o con la pareja
+            p Esto se traduce en hoteles con servicios con piscinas especiales y climatizadas, especiales para el <i>relax</i> en familia o con la pareja.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider31.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hotel <i>Boutique</i>
+            h4 Hotel <i>boutique</i>
             p Estos hoteles cuentan con pocas habitaciones, idealmente menos de 30, y en muchas ocasiones las características de espacio y decoración distinguen claramente a cada una de ellas. Generalmente están ambientados con una temática o estilo particular. Los hoteles <i>boutique</i> van orientados al turismo de esparcimiento; ofrecen un servicio personalizado que en muchas ocasiones incluye servicio de masajes y <i>SPA</i>. La arquitectura, decoración y mobiliario generalmente dan una personalidad distintiva al lugar. 
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider32.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hoteles Hacienda
+            h4 Hoteles hacienda
             p Estos hoteles de gran extensión se encuentran en sitios originalmente aislados o retirados de las ciudades. 
             p En algún momento los inmuebles fueron minas, fincas u otro tipo de centros de trabajo y ahora han sido remodelados, incorporándoseles extensas áreas verdes y espacios para la recreación y actividades al aire libre, sin perder su esencia histórica. 
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -2052,23 +2057,23 @@
               img(src='@/assets/curso/tema1/slider33.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hotel <i>Resort</i>
-            p Son un complejo turístico con una calificación de entre 4 y 5 estrellas.  Normalmente se encuentran ubicados en ambientes naturales o playas, lo cual permite ofrecer a sus huéspedes una  cantidad de actividades de ocio adicionales. Cuentan con todos los servicios básicos de los que dispone un hotel y muchos de ellos tienen regímenes de “todo incluido” que permiten que, por un precio fijo, se puedan  aprovechar todos los servicios que ofrece el complejo hotelero, así como actividades para niños y para adultos. Ejemplo: Hoteles Decamerón
+            h4 Hotel <i>resort</i>
+            p Son un complejo turístico con una calificación de entre 4 y 5 estrellas. Normalmente, se encuentran ubicados en ambientes naturales o playas, lo cual permite ofrecer a sus huéspedes una  cantidad de actividades de ocio adicionales. Cuentan con todos los servicios básicos de los que dispone un hotel y muchos de ellos tienen regímenes de “todo incluido” que permiten que, por un precio fijo, se puedan  aprovechar todos los servicios que ofrece el complejo hotelero, así como actividades para niños y para adultos. Ejemplo: Hoteles Decamerón.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider34.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
-            h4 Hoteles de Naturaleza
-            p Están situados en las proximidades de parajes naturales de interés como parques naturales, reservas y áreas protegidas. Las estancias suelen ser de varios días. El turismo ecológico es una de las actividades que esta creciendo por las variedades que la naturaleza y las costumbres que los habitantes nos brindan, aunque la naturaleza como la única y verdadera fuente de descanso y paz, por lo tanto tenemos que ser muy responsables para no causar daño a la naturaleza ni a los nativos de la región. Debido a su rápido crecimiento han contribuido al desarrollo de la actividad turística. Ejemplo: Ecohabs Minca (Santa Marta, Colombia)
+            h4 Hoteles de naturaleza
+            p Están situados en las proximidades de parajes naturales de interés como parques naturales, reservas y áreas protegidas. Las estancias suelen ser de varios días. El turismo ecológico es una de las actividades que está creciendo por las variedades que la naturaleza y las costumbres que los habitantes nos brindan, aunque la naturaleza como la única y verdadera fuente de descanso y paz, por lo tanto, tenemos que ser muy responsables para no causar daño a la naturaleza ni a los nativos de la región. Debido a su rápido crecimiento han contribuido al desarrollo de la actividad turística. Ejemplo: Ecohabs Minca (Santa Marta, Colombia).
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider35.png', alt="Imagen decorativa")
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
             h4 Hoteles temáticos para niños y adultos
-            p Estos hoteles tienen la singularidad de corresponderse con una idea general. Así pues, podemos ver hoteles temáticos inspirados en lugares especiales como en decorados de cine, caracterizados con personajes de películas famosas, o diseñados en los entornos más sorprendentes. 
-            p Ejemplo: hoteles de <i>Disney</i>
+            p Estos hoteles tienen la singularidad de corresponderse con una idea general. Así pues, podemos ver hoteles temáticos inspirados en lugares especiales, como en decorados de cine, caracterizados con personajes de películas famosas, o diseñados en los entornos más sorprendentes.
+            p Ejemplo: hoteles de Disney.
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider36.png', alt="Imagen decorativa")
@@ -2092,7 +2097,7 @@
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen29.jpg', alt="Imagen decorativa")
     
-    p.mb-5(data-aos="fade-right") Según la explotación comercial, modalidad o temática escogida para llevar a cabo su oferta, los hoteles pueden especializarse en las siguientes:
+    p.mb-5(data-aos="fade-right") Se apropian unas dimensiones que son de requisito cumplimiento para el turismo sostenible, estas son:
     
     .row.justify-content-around.mb-5
       .col-lg-4.col-md-6.fondo37.h-100.p-5.mb-lg-0.mb-4(data-aos="fade-left")
@@ -2147,25 +2152,25 @@
     #colombia.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.16 Colombia turística
 
-    p.mb-5(data-aos="fade-right") Colombia tiene un amplio territorio, surcado por 3 cordilleras lo que permite disfrutar de varios pisos térmicos, variedad de cultivos y bosques tropicales, a continuación, se podrá aprender un poco más de las bellezas naturales con que se cuenta:
+    p.mb-5(data-aos="fade-right") Colombia tiene un amplio territorio, surcado por 3 cordilleras, lo que permite disfrutar de varios pisos térmicos, variedad de cultivos y bosques tropicales, a continuación, se podrá aprender un poco más de las bellezas naturales con que se cuenta:
     
     figure.mb-5(data-aos="fade-up")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/DyHw5c5pHiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-right") En Colombia no existen estaciones (invierno, verano, primavera, otoño) como en otros países el mundo, esto debido a su ubicación en la zona ecuatorial que mantiene una igualdad en las horas en las que sale el sol o cae la noche. A cambio de estaciones, en el país se puede hablar de temporadas secas (de diciembre a enero y de julio a agosto) y temporadas de lluvias (de abril a mayo y de octubre a noviembre). Adicional a lo anterior, en Colombia también se puede encontrar una gran variedad de paisajes, biodiversidad y de pisos térmicos debido a la diversidad topográfica del territorio. 
+    p(data-aos="fade-right") , que mantiene una igualdad en las horas en las que sale el sol o cae la noche. A cambio de estaciones, en el país se puede hablar de temporadas secas (de diciembre a enero y de julio a agosto) y temporadas de lluvias (de abril a mayo y de octubre a noviembre). Adicional a lo anterior, en Colombia también se puede encontrar una gran variedad de paisajes, biodiversidad y de pisos térmicos debido a la diversidad topográfica del territorio. 
     p.mb-5(data-aos="fade-right") El clima en el país varía de acuerdo con los pisos térmicos que hay en cada región, de acuerdo con la explicación que encuentra a continuación:
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Clima cálido") Son zonas en las que el calor supera los 24º C., como ocurre en el Pacífico, en donde se puede hacer avistamiento de ballenas jorobadas; San Andrés, un destino con playas increíbles para bucear; y  la costa Caribe, en donde se celebra el famoso Carnaval de Barranquilla, y en donde se encuentra el Parque Nacional Natural Tayrona.
-          p(numero="2" titulo="Clima templado") En estas zonas, la temperatura oscila entre los 17ºC. Y los 24º C. Como ocurre en Medellín, en donde se celebra la Feria de las flores, o en Cali hogar de la famosa Feria de Cali.
-          p(numero="3" titulo="Clima frío") La temperatura oscila entre los 12º C y los 17º C. Ejemplo de éste clima es la ciudad de Bogotá, la cual fusiona historia, patrimonio y modernidad, en donde hay variedad de museos y centros culturales, como el Museo del Oro del Banco de la República.
+          p(numero="2" titulo="Clima templado") En estas zonas, la temperatura oscila entre los 17º C. Y los 24º C. Como ocurre en Medellín, en donde se celebra la Feria de las flores, o en Cali, hogar de la famosa Feria de Cali.
+          p(numero="3" titulo="Clima frío") La temperatura oscila entre los 12º C y los 17º C. Ejemplo de este clima es la ciudad de Bogotá, la cual fusiona historia, patrimonio y modernidad, en donde hay variedad de museos y centros culturales, como el Museo del Oro del Banco de la República.
           p(numero="4" titulo="Páramos") En estas zonas, las temperaturas oscilan entre los 6º C y los 12º C. El parque Nacional Natural Chingaza, en el cual habitan especies como venados de cola blanca, cóndores y osos andinos.
           p(numero="5" titulo="Zonas glaciares") Tienen una temperatura inferior a los 6º C. En la Sierra Nevada de Santa Marta, se puede apreciar paisajes nevados, además de practicar el <i>trekking</i>.
-          p(numero="6" titulo="Selvas tropicales") Son hábitats calurosos y húmedos, y las temperaturas superan los 27º C. En Colombia, la región del Amazonas es una selva tropical, con gran riqueza de paisajes naturales. Hábitats calurosos y húmedos, y las temperaturas superan los 27º C. En Colombia, la región del Amazonas es una selva tropical, con gran riqueza de paisajes naturales.
-          p(numero="7" titulo="Tropical de estepa") Se caracteriza por sus altas temperaturas, sus lluvias mínimas y muy poca vegetación, con temperaturas que sobrepasan los 34º C. La Guajira es un ejemplo de este clima, en donde se puede disfrutar de paisajes desérticos, visitar las rancherías y conocer algo más de la cultura <i>Wayuu</i>.
+          p(numero="6" titulo="Selvas tropicales") Son hábitats calurosos y húmedos, y las temperaturas superan los 27º C. En Colombia, la región del Amazonas es una selva tropical, con gran riqueza de paisajes naturales.
+          p(numero="7" titulo="Tropical de estepa") Se caracteriza por sus altas temperaturas, sus lluvias mínimas y muy poca vegetación, con temperaturas que sobrepasan los 34º C. La Guajira es un ejemplo de este clima, en donde se puede disfrutar de paisajes desérticos, visitar las rancherías y conocer algo más de la cultura Wayuu.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema1/imagen31.jpg', alt="Imagen decorativa")
     
@@ -2257,7 +2262,7 @@
                 figure
                   img(src='@/assets/curso/tema1/situr.svg', alt="Imagen decorativa")
               .col-12.px-4
-                p.mb-0 Es un sistema de medición, similar al anterior, pero en este caso es utilizado para cada departamento. En su página <i>web</i> se pueden seleccionar los diferentes departamentos con sus municipios, para encontrar información turística asociada a los atractivos turísticos del lugar, indicadores departamentos, indicadores de sostenibilidad y mapa regional de oportunidades. 
+                p.mb-0 Es un sistema de medición, similar al anterior, pero en este caso es utilizado para cada departamento. En su página web se pueden seleccionar los diferentes departamentos con sus municipios, para encontrar información turística asociada a los atractivos turísticos del lugar, indicadores departamentos, indicadores de sostenibilidad y mapa regional de oportunidades. 
             .row.justify-content-center
               .col-lg-6.col-10.mb-lg-0.mb-4
                 figure
@@ -2315,7 +2320,7 @@
       <tr>
         <th class="fondo6 text-center anchocol"><h4 class="text-bold">Agencias de viaje</h4></th>
         <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Mide el personal ocupado, ingresos nominales, Índice de agencias de viajes y coeficiente de variación.</p>
+          <p style="margin-bottom: 0px;">Mide el personal ocupado, ingresos nominales, índice de agencias de viajes y coeficiente de variación.</p>
         </td>
       </tr>
       <tr>
@@ -2334,7 +2339,7 @@
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade")
         .cajon.puntacajon.fondo17.sombracajon.p-4
-          p.mb-0.mx-3 La cuenta satélite de turismo (CST) es una parte del sistema de cuentas nacionales que se ha convertido en una herramienta de análisis en la formulación de políticas para la promoción y comercialización del sector, Con los datos que arroja, se genera conocimiento sobre la manera en que se desarrollan las actividades turísticas teniendo en cuenta las recomendaciones de la Organización Mundial del Turismo (OMT).
+          p.mb-0.mx-3 La Cuenta Satélite de Turismo (CST) es una parte del sistema de cuentas nacionales que se ha convertido en una herramienta de análisis en la formulación de políticas para la promoción y comercialización del sector, Con los datos que arroja, se genera conocimiento sobre la manera en que se desarrollan las actividades turísticas teniendo en cuenta las recomendaciones de la Organización Mundial del Turismo (OMT).
 
 </template>
 
@@ -2355,7 +2360,7 @@ export default {
         titulo:
           '<p style="color: #111E61; font-weight: 700; margin-right: 0;">Edad antigua</p>',
         texto:
-          '<p style="color: #111E61; margin-right: 0;">Aparecen actividades de tiempo libre y de ocio creativo en la Antigua Grecia. Con la cultura Romana inician las primeras actividades de termalismo. Primeros viajes hacia el mar en época dorada de la antigua Roma, así como las actividades de teatro.</p>',
+          '<p style="color: #111E61; margin-right: 0;">Aparecen actividades de tiempo libre y de ocio creativo en la Antigua Grecia. Con la cultura romana inician las primeras actividades de termalismo. Primeros viajes hacia el mar en época dorada de la Antigua Roma, así como las actividades de teatro.</p>',
         icono: require('@/assets/curso/tema1/antigua.png'),
       },
       {

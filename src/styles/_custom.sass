@@ -10,9 +10,9 @@
   &-2
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    width: 24%
+    width: 22%
     top: 150px
-    left: -144%
+    left: -152%
     z-index: 99
     @media screen and ( max-width: $bp-max-xl)
       left: -168%
@@ -35,11 +35,11 @@
     position: absolute
     width: 22%
     top: 5px
-    left: -130%
+    left: -145%
     z-index: 99
     @media screen and ( max-width: $bp-max-xl)
       left: -165%
-      top: -4%
+      top: 4%
     
 @keyframes float1
   0%
@@ -452,8 +452,9 @@
   background-color: #98B48F
 
 .ampliarambos
-  margin-right: -50px
-  margin-left: -50px
+  margin-inline: -3rem !important
+  @media (max-width: $bp-max-sm)
+    margin-inline: -1.5rem !important
 
 .tamanotipo
   height: 400px
@@ -960,3 +961,6 @@
 
 .titulo-sexto.h5
   display: inline-block !important
+
+.linea-tiempo-d__item__content__title
+  height: 55px

@@ -16,7 +16,7 @@
           .col-lg-6(data-aos="fade-left")
             .cajon.puntacajon3.p-4.mb-4.fondo43.mt-4.sombracajon
               p.mb-0 Lo interesante de viajar no solo es adquirir bienes y servicios, sino “vivir una experiencia” que aporte novedad y genere un sentido de autorrealización y autodesarrollo. Todos los actores del sistema turístico tienen la responsabilidad de hacer que los viajeros se lleven una buena imagen del lugar, a partir de las sensaciones y emociones que puedan generar en ellos y que puedan ser replicadas posteriormente a través de su voz a voz.
-            p Dentro de los bienes o productos que normalmente se adquieren en un viaje, se podrían mencionar por ejemplo los <i>souvenirs</i>; entre los servicios, se puede hablar por ejemplo del transporte; y entre las experiencias, “aquellas que permiten vivenciar una realidad distinta, como, por ejemplo, una cultura ajena a la nuestra” (Sernatur, 2017). 
+            p Dentro de los bienes o productos que normalmente se adquieren en un viaje, se podrían mencionar, por ejemplo, los <i>souvenirs</i>; entre los servicios, se puede hablar por ejemplo del transporte; y entre las experiencias, “aquellas que permiten vivenciar una realidad distinta, como, por ejemplo, una cultura ajena a la nuestra” (Sernatur, 2017). 
             p.mb-0 Una experiencia turística, por tanto, es el conjunto de emociones y sensaciones y que el turista obtiene durante todas las fases de contacto con el producto turístico. 
           
           p.mb-5(data-aos="fade-right") Ofrecer experiencias de calidad es un factor indispensable para ser competitivo en el sector turístico y para orientarse hacia las necesidades del público objetivo, ahorrando de esa manera los costos e inversiones innecesarias que dejen por fuera nuestro nicho de valor estratégico.
@@ -32,10 +32,11 @@
                   p.mb-0 #[b Mayores ingresos]: se puede cobrar mucho más por una experiencia que está bien diseñada y que busca generar mayores emociones y sensaciones en los turistas, adicionalmente cuando se siguen los pasos correctos para su diseño, los costos funcionarán de manera beneficiosa para quien está a cargo de ella.
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
               img(src='@/assets/curso/tema2/imagen2.jpg', alt="Imagen decorativa")
-            p.mb-5(data-aos="fade-right") Hay unos elementos específicos, que permiten tener una experiencia turística, estos son:
+            .col-12.order-3
+              p.mb-0(data-aos="fade-right") Hay unos elementos específicos, que permiten tener una experiencia turística, estos son:
           .row.ps-5
             .col-auto.fondomundo4.ps-sm-1.ps-4(data-aos="fade-right")
-              h3.px-5.pt-5.margin-5 Elementos de una experiencia turística
+              h3.px-5.pt-5.ms-5 Elementos de una experiencia turística
 
     SlyderF.mb-5(columnas="col-lg-4" data-aos="zoom-in")
       .tarjeta.p-4.fondo44.h-100
@@ -77,18 +78,18 @@
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
-      h2 2.1 Comunicar la experiencia turística en la <i>web</i> y redes sociales
+      h2 2.1 Comunicar la experiencia turística en la web y redes sociales
     
     .row.justify-content-center.mb-5
       .col-lg-6.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         img(src='@/assets/curso/tema2/imagen3.jpg', alt="Imagen decorativa")
       .col-lg-6(data-aos="fade-left")
         .cajon.puntacajon4.p-4.mb-4.fondo45.sombracajon
-          p.mb-0 La <i>web</i> y las redes sociales durante los últimos años han tenido su crecimiento más exponencial propiciando cambios en las relaciones entre seres humanos y también entre las empresas del sector turismo. Hoy día muchos usan estas plataformas para compartir sus momentos diarios, comprar productos o servicios, compartir información, e interactuar con amigos gracias al poder de rapidez que tiene el internet. 
+          p.mb-0 La web y las redes sociales durante los últimos años han tenido su crecimiento más exponencial, propiciando cambios en las relaciones entre seres humanos y también entre las empresas del sector turismo. Hoy día muchos usan estas plataformas para compartir sus momentos diarios, comprar productos o servicios, compartir información, e interactuar con amigos gracias al poder de rapidez que tiene el internet. 
         p Muchas de las empresas del sector turismo ya son conscientes de su importancia y aprovechan sus herramientas para comunicarse con sus clientes, fidelizarlos y diseñar estrategias para brindar la mejor experiencia. 
-        p.mb-0 Con lo anterior claro, se puede revisar los consejos para crear una experiencia turística en la <i>web</i> y redes sociales.
+        p.mb-0 Con lo anterior claro, se puede revisar los consejos para crear una experiencia turística en la web y redes sociales.
     
-    h4.text-center.mb-5(data-aos="fade-right") Consejos para comunicar una experiencia turística en la <i>web</i> y en redes sociales
+    h4.text-center.mb-5(data-aos="fade-right") Consejos para comunicar una experiencia turística en la web y en redes sociales
     
     p.mb-5(data-aos="fade-right") La comunicación de una experiencia es muy distinta a la de otros tipos de producto; al promocionar una experiencia, se debe hablar de lo que podría sentir el turista, tratando de transmitir sensaciones de calidez, familiaridad, diversión, asombro y  fascinación. Es fundamental tener presencia en internet, ya que es el medio preferido por los turistas para buscar información, por ello ten presente esto:
     
@@ -98,7 +99,7 @@
           p(numero="1" titulo="Presenta el contenido en nuevos formatos") La inclusión de vídeos, imágenes y <i>stories</i> se consigue más interacción, pero se puede ir más allá y utilizar otros formatos como vídeos 360° o realidad virtual para que las publicaciones lleguen a más usuarios e interactúan con ellas.
           p(numero="2" titulo="Sé creativo y ofrece contenidos actualizados") Las redes sociales son muy dinámicas y suelen ir pegadas a la actualidad, por lo que es indispensable saber qué está pasando en cada momento, cuáles son las nuevas tendencias o de qué se está hablando en tiempo real.
           p(numero="3" titulo="Informa sobre las condiciones de la experiencia") Entregando datos útiles sobre tus canales de contacto y/o las formas de llegar a tu oferta. Agregar un mapa puede ser una buena idea. 
-          p(numero="4" titulo="Preocúpate por interactuar con tu comunidad") En redes sociales se pueden brindar comentarios tanto positivos como negativos de tu oferta; así que da respuesta oportuna a todos y en especial a los negativos reconociendo errores y explicando las medidas que estás tomando para corregirlos. 
+          p(numero="4" titulo="Preocúpate por interactuar con tu comunidad") En redes sociales se pueden brindar comentarios tanto positivos como negativos de tu oferta; así que da respuesta oportuna a todos y en especial a los negativos, reconociendo errores y explicando las medidas que estás tomando para corregirlos. 
           p(numero="5" titulo="Prefiere fotografías de los paisajes del entorno o de personas ") Disfrutando de tus instalaciones, relacionándose con los habitantes y las tradiciones del destino. Evita imágenes de lugares vacíos.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/imagen4.jpg', alt="Imagen decorativa")
@@ -137,40 +138,40 @@
         img.nomostrar1.alto2(src='@/assets/curso/tema2/servicio2.png', alt="Imagen decorativa")
       figcaption.text-center(data-aos="fade-right") Nota: SENA (2022).
     
-    p(data-aos="fade-right") Estos documentos son importantes ya que los equipos encuentran la forma más eficaz de responder a las preguntas más frecuentes. Por ejemplo, casos en los que se debe hacer un reembolso o pasos necesarios para devolver un producto.
+    p(data-aos="fade-right") Estos documentos son importantes, ya que los equipos encuentran la forma más eficaz de responder a las preguntas más frecuentes. Por ejemplo, casos en los que se debe hacer un reembolso o pasos necesarios para devolver un producto.
     p.mb-5(data-aos="fade-right") Con el fin de clarificar las dudas que surjan a partir de la creación de políticas de servicio, se ha construido el siguiente recurso:
     h4.mb-5.text-center(data-aos="fade-right") Pasos para crear una política de servicio
     
     SlyderF.mb-5(columnas="col-lg-4" data-aos="zoom-in")
-      .tarjeta.fondo19.h-100.p-4
+      .tarjeta.fondo19.h-100.p-xl-4.p-2
         .row.justify-start-center.mb-3.align-items-center
           .col-lg-4.col-5.mb-3
             img(src='@/assets/curso/tema2/slider2-1.png', alt="Imagen decorativa")
           .col-lg-8
             h4.mb-0 1. Diagnosticar
         p.text-dark.mx-4 Conocer quién es el cliente, sus necesidades y miedos.
-      .tarjeta.fondo19.h-100.p-4
+      .tarjeta.fondo19.h-100.p-xl-4.p-2
         .row.justify-content-start.mb-3.align-items-center
           .col-lg-4.col-5.mb-3
             img(src='@/assets/curso/tema2/slider2-1.png', alt="Imagen decorativa")
           .col-lg-8
             h4 2. Comparar
         p.text-dark.mx-4 Contrastar las expectativas de los clientes con las posibilidades reales que tiene la empresa de cubrirlas.
-      .tarjeta.fondo19.h-100.p-4
+      .tarjeta.fondo19.h-100.p-xl-4.p-2
         .row.justify-content-start.mb-3.align-items-center
           .col-lg-4.col-5.mb-3
             img(src='@/assets/curso/tema2/slider2-1.png', alt="Imagen decorativa")
           .col-lg-8
             h4 3. Evaluar
         p.text-dark.mx-4 Observa si tus esfuerzos generan los resultados esperados y optimiza tu estrategia para mantenerte a delantera de la competencia.
-      .tarjeta.fondo19.h-100.p-4
+      .tarjeta.fondo19.h-100.p-xl-4.p-2
         .row.justify-content-start.mb-3.align-items-center
           .col-lg-4.col-5.mb-3
             img(src='@/assets/curso/tema2/slider2-1.png', alt="Imagen decorativa")
           .col-lg-8
             h4 4. Escuchar
         p.text-dark.mx-4 Incluir una cultura del detalle que sorprenda al cliente y tenga en cuenta su opinión.
-      .tarjeta.fondo19.h-100.p-4
+      .tarjeta.fondo19.h-100.p-xl-4.p-2
         .row.justify-content-start.mb-3.align-items-center
           .col-lg-4.col-5.mb-3
             img(src='@/assets/curso/tema2/slider2-1.png', alt="Imagen decorativa")
@@ -178,7 +179,7 @@
             h4 5. Actuar
         p.text-dark.mx-4 Tener un enfoque proactivo que solucione problemas, pero también los evite.
 
-    p(data-aos="fade-right") El servicio al cliente en la industria de viajes y turismo es parte esencial de la experiencia del visitante; se debe recordar que éste se encuentra fuera de casa, con un idioma y costumbre diferente, por lo que el primer momento de verdad con una compañía va a determinar la relación que creará con esta e influirá enormemente en la decisión final de la compra. 
+    p(data-aos="fade-right") El servicio al cliente en la industria de viajes y turismo es parte esencial de la experiencia del visitante; se debe recordar que este se encuentra fuera de casa, con un idioma y costumbre diferente, por lo que el primer momento de verdad con una compañía va a determinar la relación que creará con esta e influirá enormemente en la decisión final de la compra. 
     p.mb-5(data-aos="fade-right") Existen diferentes técnicas para poder prestar un servicio óptimo; se puede revisar el archivo para aprender más.
 
     .row.justify-content-center
@@ -191,7 +192,7 @@
           .row.px-2(titulo="Técnica de escucha")
             p Consiste en desarrollar competencias de escucha activa.
           .row.px-2(titulo="Técnica de memorización de nombres")
-            p Técnica basada en el uso del nombre del cliente al momento de sostener una conversación con el. Esto ayuda a mantener su atención y confianza.
+            p Técnica basada en el uso del nombre del cliente al momento de sostener una conversación con él. Esto ayuda a mantener su atención y confianza.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/imagen7.jpg', alt="Imagen decorativa")
 
@@ -206,7 +207,7 @@
             img(src='@/assets/curso/tema2/imagen8.jpg', alt="Imagen decorativa")
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             .cajon.puntacajon3.fondo43.sombracajon.p-4.mb-4(data-aos="fade-left")
-              p.mb-0 Las negociaciones estratégicas con proveedores son una forma de llegar a acuerdos favorables que le den más confianza a la compañía para competir en el mercado. El poder de negociación es la capacidad que posee una de las partes para llegar a un acuerdo influyendo o predominando sobre las decisiones de la otra u otras partes.Por ejemplo, si una empresa debe comprar materias primas para su negocio que solo ofrece un proveedor, estaría en desventaja a la hora de negociar su compra, ya que el poder en cuanto a la estipulación de precios se encuentra ubicado solo en una de las partes sin otros competidores que puedan rebajar esa oferta.
+              p.mb-0 Las negociaciones estratégicas con proveedores son una forma de llegar a acuerdos favorables que le den más confianza a la compañía para competir en el mercado. El poder de negociación es la capacidad que posee una de las partes para llegar a un acuerdo, influyendo o predominando sobre las decisiones de la otra u otras partes. Por ejemplo, si una empresa debe comprar materias primas para su negocio que solo ofrece un proveedor, estaría en desventaja a la hora de negociar su compra, ya que el poder en cuanto a la estipulación de precios se encuentra ubicado solo en una de las partes sin otros competidores que puedan rebajar esa oferta.
             p(data-aos="fade-left") Así pues, antes de iniciar con alguna negociación se debe idear un plan con proveedores teniendo en cuenta lo siguiente:
             ul.lista-ul
               li.otrocolorcheck(data-aos="fade-left")
@@ -222,14 +223,16 @@
                 i.fas.fa-check
                 p Evaluar la manera en la que se consiguen los bienes.
 
+    p.mb-5(data-aos="fade-right") La negociación es un arte que se aprende con el tiempo y es una habilidad que se desarrolla buscando la obtención de los mejores beneficios para la compañía. Mira a continuación los consejos para una correcta negociación.
+
     .row.justify-content-center.align-items-center
       .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD
-          p(numero="1" titulo="Haz una lista con los proveedores posibles") Tu primera tarea será hacer una lista con posibles proveedores que puedan ser de tu interés. Sondea el mercado, busca opiniones sobre cada uno de ellos, analiza su página <i>web</i> y haz la selección.    
+          p(numero="1" titulo="Haz una lista con los proveedores posibles") Tu primera tarea será hacer una lista con posibles proveedores que puedan ser de tu interés. Sondea el mercado, busca opiniones sobre cada uno de ellos, analiza su página web y haz la selección.    
           p(numero="2" titulo="Busca un proveedor con recorrido") De todos los proveedores incluidos en tu lista elige, para empezar, a aquel que tenga más experiencia en su ámbito. Trabajar con una empresa especializada te dará más seguridad y, probablemente, mejores resultados.<br/><br/> Una vez lo tengas, llámale y concierta una primera reunión.
           p(numero="3" titulo="Prepara la reunión") Una de las claves para tener éxito es una negociación es estar bien preparado; por eso, la recomendación es que te informes bien sobre la historia del proveedor, los productos o servicios que ofertan, los precios.
           p(numero="4" titulo="Ten en cuenta tus objetivos") Para llevar la negociación a buen puerto y obtener unas circunstancias ventajosas para ti, es vital que tengas claros tus objetivos y presupuesto.<br/><br/> Durante la reunión, si el contrario es un buen comercial, tratará por todos los medios de venderte su producto. Quizás las condiciones o el servicio sean muy buenos, pero tienen que valorar si te ayudarán a cumplir tus objetivos y si además entra dentro de tu presupuesto.
-          p(numero="5" titulo="Sé flexible y ponte el lugar de tu proveedor") Dicho lo anterior, permítete ser un poco flexible sobre todo si estás tratando con un proveedor que ha trabajado en anteriores ocasiones contigo. Si la experiencia ha sido buena en el pasado, quizás puedas relajar tus condiciones y llegar a un acuerdo igualmente ventajoso.
+          p(numero="5" titulo="Sé flexible y ponte el lugar de tu proveedor") Dicho lo anterior, permítete ser un poco flexible, sobre todo si estás tratando con un proveedor que ha trabajado en anteriores ocasiones contigo. Si la experiencia ha sido buena en el pasado, quizás puedas relajar tus condiciones y llegar a un acuerdo igualmente ventajoso.
           p(numero="6" titulo="Tómate tu tiempo") En las negociaciones no hay que tomar nunca decisiones precipitadas; al contrario, es importante que te tomes tu tiempo para hablar y dar una respuesta final.<br/><br/> Es parte de la dinámica de una negociación y el proveedor entenderá que le pidas unos días para valorar su propuesta.<br/><br/> Como normal general, aunque te entusiasme mucho la idea que te ponen encima de la mesa, no des una respuesta final en la misma reunión.
       .col-lg-5.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src='@/assets/curso/tema2/imagen9.jpg', alt="Imagen decorativa")

@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-5(data-aos="fade-right") Se da la bienvenida al componente formativo “Estructuración de la experiencia turística”. Para comenzar el recorrido por el mismo, visitar el recurso didáctico que se muestra a continuación:
+    p.mb-5(data-aos="fade-right") Se da la bienvenida al componente formativo “#[b Estructuración de la experiencia turística]”. Para comenzar el recorrido por el mismo, visitar el recurso didáctico que se muestra a continuación:
     figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/YdbvQKFr5I0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)</template>
