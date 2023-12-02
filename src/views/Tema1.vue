@@ -162,7 +162,6 @@
       div(x="13.2%" y="26.6%" tooltip="Click para leer mas..." numero="+")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h4.text-dark 1. Alojamiento y servicios de hospedaje
             p.text-dark Establecimiento abierto al público en general, dedicado a brindar hospedaje temporal mediante precio, con o sin otros servicios complementarios como alimentación, <i>tours</i>, <i>spa,</i> entre otros.
             p.text-dark Puede ser un hotel, hotel-apartamento, hostal, pensión, casa rural, etc. 
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
@@ -170,21 +169,18 @@
       div(x="24.3%" y="32.2%" tooltip="Click para leer mas...")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h4 2. Transporte
             p Es aquel servicio de alquiler de vehículos, con o sin conductor, que se facilita como parte de la actividad turística y que se presta bajo la responsabilidad de una empresa legalmente constituida para tales fines y debidamente habilitada en esta modalidad.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal2.svg', alt="Imagen decorativa")
       div(x="34.6%" y="27.4%" tooltip="Click para leer mas...")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h4.text-dark 3. Restaurantes o establecimientos de gastronomía
             p.text-dark Restaurantes o establecimientos de gastronomía: establecimientos comerciales cuya actividad económica está relacionada con la producción, servicio y venta de alimentos y/o bebidas para consumo. 
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal3.svg', alt="Imagen decorativa")
       div(x="61.2%" y="29.7%" tooltip="Click para leer mas...")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h4 4. Agencias de viajes y turismo (vts, operadoras y mayoristas)
             p Agencias de viajes y turismo (vts, operadoras y mayoristas): son las empresas que se dedican profesionalmente al ejercicio de actividades turísticas dirigidas a la prestación de servicios, directamente o como intermediarios entre los viajeros y proveedores de los servicios.
             p Hay varios tipos:
             ul.lista-ul--color
@@ -202,14 +198,12 @@
       div(x="67.5%" y="28.8%" tooltip="Click para leer mas...")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h4 5. Guías de turismo
             p Tienen como función orientar, conducir, instruir y asistir al turista, viajero o pasajero durante la ejecución del servicio contratado.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal5.svg', alt="Imagen decorativa")
       div(x="90%" y="39.5%" tooltip="Click para leer mas...")
         .row.justify-content-center.align-items-center.px-2
           .col-lg-6.order-lg-1.order-2
-            h5 6. Operador profesional de eventos 
             p Son operadores profesionales de congresos, ferias y convenciones, las personas naturales o jurídicas legalmente constituidas que se dediquen a la organización de certámenes como congresos, convenciones, ferias, seminarios y reuniones similares, en sus etapas de gerenciamiento, planeación, promoción y realización, así como a la asesoría y/o producción de estos certámenes en forma total o parcial.
           .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             img(src='@/assets/curso/tema1/figuramodal6.svg', alt="Imagen decorativa")
@@ -225,15 +219,15 @@
       h5 Figura 1.
       span Diferencias entre turista y excursionista
 
-    .row.mb-5.justify-content-center.align-items-center.mb-5
-      .col-xxl-4.col-xl-5.col-lg-6.mb-md-0.mb-4(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-5
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-8.col-sm-10.mb-lg-0.mb-4(data-aos="fade-left")
         .tarjeta-avatar
           img.sizeimg(src='@/assets/curso/tema1/turista.svg', alt="Turista")
-          .tarjeta.fondo3
-            ul.lista-ul--color.otralista.col-xxl.ps-4.pb-5.mb-5.col-xxl.pe-4.col-md.me-2.col-sm.ps-4.col-xl-11.col-xl.ms-3.col-10.mt-sm-3.margenxs.mt-3
+          .tarjeta.fondo3.h-100.px-5.py-5
+            ul.lista-ul--color.otralista.mb-5
               li(data-aos="fade-right") 
                 i.fas.fa-circle.fa-xs 
-                | Son visitantes que pernoctar o amanecen en el lugar.
+                | Son visitantes que pernoctan o amanecen en el lugar.
               li(data-aos="fade-right")
                 i.fas.fa-circle.fa-xs 
                 | Su estancia es superior o igual a 24 horas en el destino.
@@ -241,11 +235,11 @@
                 i.fas.fa-circle.fa-xs 
                 | Razones del viaje: recreo, vacaciones, salud, estudio, religión, deportes o negocios.
 
-      .col-xxl-4.col-xl-5.col-lg-6.mb-md-0.mb-4(data-aos="fade-right")
+      .col-xxl-4.col-xl-5.col-lg-6.col-md-8.col-sm-10.mb-lg-0.mb-4(data-aos="fade-right")
         .tarjeta-avatar
           img.sizeimg(src='@/assets/curso/tema1/excursionista.svg', alt="Excursionista")
-          .tarjeta.fondo5
-            ul.lista-ul--color.otralista.ps-5.col-xxl.pb-5.col-xxl.mb-5.mb-5.col-xxl.pe-2.col-lg-11.col-xl-11.col-10.mt-sm-3.margenxs.mt-3
+          .tarjeta.fondo5.h-100.px-5.py-5
+            ul.lista-ul--color.otralista.mb-5
               li(data-aos="fade-left")
                 i.fas.fa-circle.fa-xs 
                 | Son los visitantes que se demoran menos de 24 horas en el destino.
@@ -255,6 +249,7 @@
               li.mb-5(data-aos="fade-left")
                 i.fas.fa-circle.fa-xs 
                 | Se excluyen a los viajeros en un país.
+            br.d-xxl-none.d-flex
 
     .cajon.color-primario.p-4.fondo1.mb-5(data-aos="fade-up")
       .row.justify-content-center.align-items-center
@@ -531,7 +526,7 @@
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         LineaTiempoD.color-secundario
           p(numero="1" titulo="Ecoturismo y turismo sostenible") Un modo de hacer turismo que consiste en el respeto por el medio ambiente y el planeta, acorde con los principios de sostenibilidad y la conservación de los recursos de los destinos turísticos.
-          p(numero="2" titulo="<i>Mindful Travel</i>") Es un modo de viajar relacionado con el bienestar, autocuidado y la transformación personal. Son viajes tranquilos donde no se cumple con horarios estrictos ya que su principal objetivo es que los turistas, realmente conecten con el destino, con su cultura, sus costumbres y tradiciones.
+          p(numero="2" titulo="<i>Mindful Travel</i>") Es un modo de viajar relacionado con el bienestar, autocuidado y la transformación personal. Son viajes tranquilos donde no se cumple con horarios estrictos, ya que su principal objetivo es que los turistas, realmente conecten con el destino, con su cultura, sus costumbres y tradiciones.
           p(numero="3" titulo="Experiencias turísticas") Los turistas buscan experiencias memorables, sentir emociones y vivir aventuras placenteras en cada uno de sus viajes. El viajero experto busca actividades distintas, destinos turísticos que ofrezcan atractivos y experiencias diferentes, lejos del turismo masivo y en busca de vivencias en lugares especiales.
           p(numero="4" titulo="Turismo de viajes nómadas") Son los empresarios y empleados que se desplazan hacia cualquier destino con la intención de trabajar a distancia. Este tipo de turismo, también combinado con los viajes, es una oportunidad excelente para que los destinos ofrezcan espacios ideales para trabajar y a la vez viajar. 
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
@@ -640,7 +635,7 @@
                 | El cliente suele ser de alto poder adquisitivo.
               li 
                 i.fas.fa-caret-right
-                | Turismo fundamentalmente urbano
+                | Turismo fundamentalmente urbano.
               li 
                 i.fas.fa-caret-right
                 | Se destacan las reuniones, congresos, convenciones, viajes de incentivos.
@@ -1145,7 +1140,7 @@
           p(numero="2" titulo="Servicio turístico") Son todos los servicios que el turista requiere y consume mientras está de viaje, como el alojamiento, alimentación, transporte, agencias de viajes, etc.
           p(numero="3" titulo="Infraestructura turística") Es la dotación de bienes y servicios básicos con que cuenta un país, departamento o municipio y permite que el viaje sea cómodo y agradable, se puede clasificar en: red de transportes (red ferroviaria y vial), terminales terrestres (aeropuertos, terminales de buses, puertos, etc.), redes de servicios básicos (agua potable, electricidad, etc.), redes de comunicaciones (correo, teléfonos fijos, equipos celulares, fax, Internet, etc.).
           p(numero="4" titulo="Comunidad local") Habitantes, costumbres y tradiciones<br/><br/>El producto turístico debe incluir a los residentes, ya que son ellos los que ponen la diferencia principal entre un lugar y otro. En definitiva, es el sello que hace que un lugar sea agradable y único para visitar, es lo que lo hace diferente.
-          p(numero="5" titulo="Percepción - Imagen - Emoción (Sensación)") Independiente de las características que posea un destino concreto, no todos los turistas que lo visitan van a percibirlo de igual forma, ya que cada uno construirá su propia imagen del destino y esto lo va a conectar con una emoción que finalmente se transforma en sensaciones.<br/><br/>También debemos tener presente que normalmente un turista no se satisface a partir de la oferta de un solo proveedor. El transporte, la alimentación, el alojamiento y las actividades serán entregadas por muchos oferentes distintos, razón por la que el éxito de nuestro producto depende del éxito de la combinación de estos oferentes.
+          p(numero="5" titulo="Percepción") Imagen - Emoción (Sensación)<br><br>Independiente de las características que posea un destino concreto, no todos los turistas que lo visitan van a percibirlo de igual forma, ya que cada uno construirá su propia imagen del destino y esto lo va a conectar con una emoción que finalmente se transforma en sensaciones.<br/><br/>También debemos tener presente que normalmente un turista no se satisface a partir de la oferta de un solo proveedor. El transporte, la alimentación, el alojamiento y las actividades serán entregadas por muchos oferentes distintos, razón por la que el éxito de nuestro producto depende del éxito de la combinación de estos oferentes.
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img.mt-4(src="@/assets/curso/tema1/imagen14.jpg")
     
@@ -1312,7 +1307,7 @@
     .row.justify-content-center.alineacion.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
         p La mayoría de las OTA funcionan como una red social que se nutre a partir de los comentarios, fotografías y opiniones de los turistas que desean compartir su opinión al respecto y las imágenes de lo vivido durante su recorrido en el destino elegido. Lo diferencial en estos tipos de agencias de viaje, es que los turistas son quienes realizan la búsqueda de los servicios que desean contratar y tienen el poder de comparar y seleccionar el que más les convenga según su presupuesto; por ello, en este tipo de OTA el principal canal de reservas y/o compras es el internet y no un empleado. 
-        p No es entonces un secreto que el trabajo de las OTA ha cobrado gran importancia a nivel mundial, ya que hoy por hoy son la primera parada de los cibernautas a la hora de planear sus viajes. Estas <i>webs</i> brindan valor en cada fase del proceso de compra:  incorporan la necesidad de los usuarios, realizan la búsqueda de información, presentan alternativas, influyen en la decisión de compra y también buscan conocer el desenlace posterior a esta. Su importancia tiene hoy un gran peso, ya que los turistas rescatan el acceso global que se les brinda, sin importar la ubicación donde se encuentren; la transparencia en los precios; la competitividad y la confianza que obtienen al realizar su compra. Se invita a consultar el siguiente recurso, en donde se podrá conocer un poco más sobre las OTA a nivel mundial:
+        p No es entonces un secreto que el trabajo de las OTA ha cobrado gran importancia a nivel mundial, ya que hoy por hoy son la primera parada de los cibernautas a la hora de planear sus viajes. Estas webs brindan valor en cada fase del proceso de compra:  incorporan la necesidad de los usuarios, realizan la búsqueda de información, presentan alternativas, influyen en la decisión de compra y también buscan conocer el desenlace posterior a esta. Su importancia tiene hoy un gran peso, ya que los turistas rescatan el acceso global que se les brinda, sin importar la ubicación donde se encuentren; la transparencia en los precios; la competitividad y la confianza que obtienen al realizar su compra. Se invita a consultar el siguiente recurso, en donde se podrá conocer un poco más sobre las OTA a nivel mundial:
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img.altura(src="@/assets/curso/tema1/imagen18.jpg")
 
@@ -1466,7 +1461,9 @@
         h4.px-5.pt-5.ms-5 <i>Customer Relationship Management y Enterprise Resource Planning</i>
     
     p(data-aos="fade-left") Estas dos herramientas permiten la gestión del servicio y la relación que ejerce con el cliente o los clientes interesados, así como la fidelización de estos, posibilitando perdurabilidad en el tiempo, a continuación, se explica cada una de estas:
-    p.subrayar.mb-5(data-aos="fade-left") <i>Customer Relationship Management</i>
+    .row.mb-5
+      .col-auto.px-0.subrayar
+        p.mb-0(data-aos="fade-left") <i>Customer Relationship Management</i>
     p.mb-5(data-aos="fade-left") Este término se refiere a una herramienta diseñada para gestionar las estrategias y prácticas de negocio que están dirigidas a la relación con el cliente y prospectos. Son <i>software</i> especializados de gran ayuda para los equipos de ventas y <i>marketing</i>. Observar el siguiente video para aprender más al respecto. 
     
     figure.mb-5(data-aos="zoom-in")
@@ -1488,7 +1485,9 @@
         img(src='@/assets/curso/tema1/crm3.svg', alt="Tipo colaborativo<br>Establecen una comunicación multicanal entre todos los departamentos de la empresa, así como interactuar con los clientes. Mejoran la relación con los clientes de la organización.<br>Diferentes departamentos están interconectados con este sistema de CMR. Por ejemplo, se pueden recopilar puntos clave de las llamadas Atención al Cliente para mejorar las estrategias de marketing, o implementar una nueva acción que mejore el proceso de ventas.")
       figcaption.text-center(data-aos="fade-left") Nota. <span style="font-weight: 400">SENA (2022).</span>
 
-    p.subrayar.mb-5(data-aos="fade-right") <i>Enterprise Resoure Planning - ERP</i>
+    .row.mb-5
+      .col-auto.px-0.subrayar
+        p.mb-0(data-aos="fade-right") <i>Enterprise Resoure Planning - ERP</i>
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -1855,7 +1854,9 @@
                     i.fas.fa-file-download
 
     p.mb-5(data-aos="fade-right") Las rutas turísticas se establecen por tipos, dependiendo de su finalidad, o su recorrido, en el siguiente recurso se ofrece esta diferenciación:
-    p.subrayar.mb-5(data-aos="fade-right") Según su finalidad
+    .row.mb-5
+      .col-auto.px-0.subrayar
+        p.mb-0(data-aos="fade-right") Según su finalidad
     
     .row.justify-content-center.mb-5
       .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -1867,7 +1868,9 @@
       .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         img(src="@/assets/curso/tema1/imagen26.jpg")
     
-    p.subrayar.mb-5(data-aos="fade-right") Según tipo de recorrido
+    .row.mb-5
+      .col-auto.px-0.subrayar
+        p.mb-0(data-aos="fade-right") Según tipo de recorrido
 
     .row.justify-content-center.mb-5
       .col-lg-5.col-sm-9.fondo35.p-4.me-3(data-aos="fade-right")
@@ -2043,7 +2046,7 @@
         .row.justify-content-center.px-2
           .col-lg-5.order-lg-1.order-2
             h4 Hotel <i>boutique</i>
-            p Estos hoteles cuentan con pocas habitaciones, idealmente menos de 30, y en muchas ocasiones las características de espacio y decoración distinguen claramente a cada una de ellas. Generalmente están ambientados con una temática o estilo particular. Los hoteles <i>boutique</i> van orientados al turismo de esparcimiento; ofrecen un servicio personalizado que en muchas ocasiones incluye servicio de masajes y <i>SPA</i>. La arquitectura, decoración y mobiliario generalmente dan una personalidad distintiva al lugar. 
+            p Estos hoteles cuentan con pocas habitaciones, idealmente menos de 30, y en muchas ocasiones las características de espacio y decoración distinguen claramente a cada una de ellas. Generalmente, están ambientados con una temática o estilo particular. Los hoteles <i>boutique</i> van orientados al turismo de esparcimiento; ofrecen un servicio personalizado que en muchas ocasiones incluye servicio de masajes y <i>SPA</i>. La arquitectura, decoración y mobiliario generalmente dan una personalidad distintiva al lugar. 
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider32.png', alt="Imagen decorativa")
@@ -2158,7 +2161,7 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/DyHw5c5pHiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    p(data-aos="fade-right") , que mantiene una igualdad en las horas en las que sale el sol o cae la noche. A cambio de estaciones, en el país se puede hablar de temporadas secas (de diciembre a enero y de julio a agosto) y temporadas de lluvias (de abril a mayo y de octubre a noviembre). Adicional a lo anterior, en Colombia también se puede encontrar una gran variedad de paisajes, biodiversidad y de pisos térmicos debido a la diversidad topográfica del territorio. 
+    p(data-aos="fade-right") En Colombia no existen estaciones (invierno, verano, primavera, otoño) como en otros países el mundo, esto debido a su ubicación en la zona ecuatorial, que mantiene una igualdad en las horas en las que sale el sol o cae la noche. A cambio de estaciones, en el país se puede hablar de temporadas secas (de diciembre a enero y de julio a agosto) y temporadas de lluvias (de abril a mayo y de octubre a noviembre). Adicional a lo anterior, en Colombia también se puede encontrar una gran variedad de paisajes, biodiversidad y de pisos térmicos debido a la diversidad topográfica del territorio. 
     p.mb-5(data-aos="fade-right") El clima en el país varía de acuerdo con los pisos térmicos que hay en cada región, de acuerdo con la explicación que encuentra a continuación:
     
     .row.justify-content-center.mb-5
