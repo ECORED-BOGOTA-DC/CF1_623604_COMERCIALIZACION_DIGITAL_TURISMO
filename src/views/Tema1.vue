@@ -1458,7 +1458,7 @@
 
     .row.mb-5(data-aos="fade-right")
       .col-auto.fondomundo2
-        h4.px-5.pt-5.ms-5 <i>Customer Relationship Management y Enterprise Resource Planning</i>
+        h4.px-lg-5.px-sm-4.px-5.pt-5.ms-lg-5.ms-sm-4.ms-5 <i>Customer Relationship Management y Enterprise Resource Planning</i>
     
     p(data-aos="fade-left") Estas dos herramientas permiten la gestión del servicio y la relación que ejerce con el cliente o los clientes interesados, así como la fidelización de estos, posibilitando perdurabilidad en el tiempo, a continuación, se explica cada una de estas:
     .row.mb-5
