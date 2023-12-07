@@ -1734,7 +1734,7 @@
             p Es muy importante establecer el número mínimo de plazas a vender para cubrir los costes del viaje. Debemos tener claro cuáles son los Costos Fijos (el alquiler de un micro para 50 pasajeros o los servicios de un guía, por ejemplo), los Costos Variables (alojamiento y comidas para los pasajeros, por ejemplo) y el precio de venta. Con esos 3 datos, aplicamos la siguiente fórmula para determinar ese punto de equilibrio.
             .row.justify-content-center.px-2
               .col-xxl-4.col-xl-4.col-lg-5.col-md-6.col-sm-3.col-3
-                img(src='@/assets/curso/tema1/formula.svg', alt="Imagen decorativa")
+                img(src='@/assets/curso/tema1/formula.svg', alt="q = CF / p-CV")
           .col-lg-7.col-10.order-lg-2.order-1.mb-lg-0.mb-4
             figure
               img(src='@/assets/curso/tema1/slider25.png', alt="Imagen decorativa")
@@ -2103,15 +2103,18 @@
     p.mb-5(data-aos="fade-right") Se apropian unas dimensiones que son de requisito cumplimiento para el turismo sostenible, estas son:
     
     .row.justify-content-around.mb-5
-      .col-lg-4.col-md-6.fondo37.h-100.p-5.mb-lg-0.mb-4(data-aos="fade-left")
-        h4 Dimensión sociocultural
-        p.mb-0 Hace referencia al respeto por la identidad de las comunidades anfitrionas, su cultura, valores y tradiciones. También a la preservación de los activos culturales, arquitectónicos y arqueológicos de los destinos, y a la protección del patrimonio inmaterial y las costumbres ancestrales de comunidades étnicas (Política de Turismo Sostenible, MINCIT 2012).
-      .col-lg-4.col-md-6.fondo38.h-100.p-5.mb-lg-0.mb-4(data-aos="fade-up")
-        h4 Dimensión ambiental 
-        p.mb-0 Gestión óptima de los recursos naturales que están en la base del desarrollo turístico, y a la conservación del medio ambiente y de los ecosistemas, que soportan la vida de distintas especies y la salud del ser humano.
-      .col-lg-4.col-md-6.fondo39.h-100.p-5.mb-lg-0.mb-4(data-aos="fade-right")
-        h4 Dimensión económica
-        p.mb-0 El turismo sostenible debe ser rentable y debe haber una distribución equitativa de los beneficios socioeconómicos como el empleo estable y la obtención de ingresos y servicios sociales para las comunidades anfitrionas.
+      .col-lg-4.col-md-6(data-aos="fade-left")
+        .fondo37.h-100.p-5.mb-lg-0.mb-4
+          h4 Dimensión sociocultural
+          p.mb-0 Hace referencia al respeto por la identidad de las comunidades anfitrionas, su cultura, valores y tradiciones. También a la preservación de los activos culturales, arquitectónicos y arqueológicos de los destinos, y a la protección del patrimonio inmaterial y las costumbres ancestrales de comunidades étnicas (Política de Turismo Sostenible, MINCIT 2012).
+      .col-lg-4.col-md-6(data-aos="fade-up")
+        .fondo38.h-100.p-5.mb-lg-0.mb-4
+          h4 Dimensión ambiental 
+          p.mb-0 Gestión óptima de los recursos naturales que están en la base del desarrollo turístico, y a la conservación del medio ambiente y de los ecosistemas, que soportan la vida de distintas especies y la salud del ser humano.
+      .col-lg-4.col-md-6(data-aos="fade-right")
+        .fondo39.h-100.p-5.mb-lg-0.mb-4
+          h4 Dimensión económica
+          p.mb-0 El turismo sostenible debe ser rentable y debe haber una distribución equitativa de los beneficios socioeconómicos como el empleo estable y la obtención de ingresos y servicios sociales para las comunidades anfitrionas.
     
     .row.mb-5(data-aos="fade-right")
       .col-auto.fondomundo
@@ -2285,59 +2288,60 @@
       h5 Tabla 6.
       span Datos Estadísticos CITUR
 
-    table.mb-5(alt="Indica todos los datos estadísticos que ofrece el CITUR.")
-      caption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
-      <tr style="align-items: center;">
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Estadística económica</h4></th>
-        <td style="background-color: #F6F6F6; align-items: center;">
-          <span>Muestra un panorama cualitativo y cuantitativo del volumen, composición y dinamismo de las fuerzas productivas de un país.</span><br/>
-          <span>Registro Nacional de Turismo: La Ley 300 de 1996 en el artículo 61 estableció el Registro Nacional de Turismo y el artículo 12 de la Ley 1101 de 2006 define los prestadores de servicios turísticos obligados a registrarse antes de iniciar sus operaciones en Colombia. Vienen clasificados por categoría y subcategoría según sea el caso.</span><br/>
-          <span>Este Registro es obligatorio para su funcionamiento y debe actualizarse anualmente.</span><br/>
-          <span>En esta sección se miden el número de Prestadores de Servicios Turísticos en Colombia, número de habitaciones, camas y empleados de los prestadores de servicios turísticos de alojamiento, número de empleados de los prestadores de servicios turísticos, etc.</span>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Empleo</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Los indicadores de mercado laboral muestran las condiciones y características de empleo de los colombianos.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Flujos turísticos</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Corresponde a corrientes de turistas que se desplazan a nivel mundial con el objetivo de tener nuevas experiencias en diferentes ámbitos de la vida como ocio, convenciones, salud, cultura, entre otras. Acá se mide la llegada de cruceros, turismo emisor y turismo receptor.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Flujos aéreos</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Miden las llegadas de pasajeros aéreos nacionales e internacionales en vuelos regulares.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Parques Nacionales Naturales</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Colombia tiene 59 áreas protegidas que pertenecen al sistema de Parques Nacionales Naturales de Colombia, los cuales representan un área total de 17.541.489 hectáreas. En esta sección se miden, por tanto, la cantidad de visitantes a dichos lugares.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Agencias de viaje</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Mide el personal ocupado, ingresos nominales, índice de agencias de viajes y coeficiente de variación.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Hoteles</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Obtienen datos del empleo en estos establecimientos, así como la ocupación hotelera, el motivo de viajes de los huéspedes y la variación de ingresos totales.</p>
-        </td>
-      </tr>
-      <tr>
-        <th class="fondo6 text-center anchocol"><h4 class="text-bold">Transporte terrestre</h4></th>
-        <td style="background-color: #F6F6F6;">
-          <p style="margin-bottom: 0px;">Mide el flujo de viajeros en terminales de transporte terrestre, el medio de desplazamiento más utilizado en Colombia, son las carreteras.</p>
-        </td>
-      </tr>
+    .tabla-a.color-secundario
+      table.mb-5(alt="Indica todos los datos estadísticos que ofrece el CITUR.")
+        caption.text-center(data-aos="fade-right") Nota. <span style="font-weight: 400">SENA (2022).</span>
+        <tr style="align-items: center;">
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Estadística económica</h4></th>
+          <td style="background-color: #F6F6F6; align-items: center;">
+            <span>Muestra un panorama cualitativo y cuantitativo del volumen, composición y dinamismo de las fuerzas productivas de un país.</span><br/>
+            <span>Registro Nacional de Turismo: La Ley 300 de 1996 en el artículo 61 estableció el Registro Nacional de Turismo y el artículo 12 de la Ley 1101 de 2006 define los prestadores de servicios turísticos obligados a registrarse antes de iniciar sus operaciones en Colombia. Vienen clasificados por categoría y subcategoría según sea el caso.</span><br/>
+            <span>Este Registro es obligatorio para su funcionamiento y debe actualizarse anualmente.</span><br/>
+            <span>En esta sección se miden el número de Prestadores de Servicios Turísticos en Colombia, número de habitaciones, camas y empleados de los prestadores de servicios turísticos de alojamiento, número de empleados de los prestadores de servicios turísticos, etc.</span>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Empleo</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Los indicadores de mercado laboral muestran las condiciones y características de empleo de los colombianos.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Flujos turísticos</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Corresponde a corrientes de turistas que se desplazan a nivel mundial con el objetivo de tener nuevas experiencias en diferentes ámbitos de la vida como ocio, convenciones, salud, cultura, entre otras. Acá se mide la llegada de cruceros, turismo emisor y turismo receptor.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Flujos aéreos</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Miden las llegadas de pasajeros aéreos nacionales e internacionales en vuelos regulares.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Parques Nacionales Naturales</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Colombia tiene 59 áreas protegidas que pertenecen al sistema de Parques Nacionales Naturales de Colombia, los cuales representan un área total de 17.541.489 hectáreas. En esta sección se miden, por tanto, la cantidad de visitantes a dichos lugares.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Agencias de viaje</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Mide el personal ocupado, ingresos nominales, índice de agencias de viajes y coeficiente de variación.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Hoteles</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Obtienen datos del empleo en estos establecimientos, así como la ocupación hotelera, el motivo de viajes de los huéspedes y la variación de ingresos totales.</p>
+          </td>
+        </tr>
+        <tr>
+          <th class="fondo6 text-center anchocol"><h4 class="text-bold">Transporte terrestre</h4></th>
+          <td style="background-color: #F6F6F6;">
+            <p style="margin-bottom: 0px;">Mide el flujo de viajeros en terminales de transporte terrestre, el medio de desplazamiento más utilizado en Colombia, son las carreteras.</p>
+          </td>
+        </tr>
     
     .row.justify-content-center.mb-5
       .col-lg-10(data-aos="fade")
